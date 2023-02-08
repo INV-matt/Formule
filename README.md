@@ -8,7 +8,7 @@
 	- [Relatività Galileiana](#Relatività-galileiana)
 	- [Forze Apparenti](#Forze-apparenti)
 	- [Impulso e Quantità di moto](#Impulso-e-quantità-di-moto)
-	- [Altro](#Altro)
+	- [Prodotti](#Prodotti)
 
 
 # Matematica
@@ -196,7 +196,7 @@ $$\vec{q} = m\vec{v}$$
 $$\vec{I}=\Delta \vec{q}$$
 
 
-## Altro
+## Prodotti
 ### Prodotto scalare
 $$\vec{a}\cdot\vec{b} = |\vec{a}||\vec{b}|\cos(\theta) $$
 ### Prodotto vettoriale
