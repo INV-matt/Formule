@@ -150,7 +150,6 @@ $$
 
 ## Relatività galileiana
 Ogni sistema di riferimento che si muove a velocità costante rispetto a un sistema inerziale è un sistema inerziale.
-Se si considerano i due sistemi inerziali $x_AO_Ay_A$ e $x_BO_By_B$, il secondo dei quali si muove a velocità $v$:
 $$
 s(\Delta t)
 \begin{cases}x_{B_x}=&x_{A_x}-v_x\Delta t \\
