@@ -62,10 +62,10 @@ $$d: x=\frac{4ac-b^2-1}{4a}$$
 #### Formula di Sdoppiamento
 $$\frac{y+y_0}{2}=ax_0x+b\frac{x_0+x}{2}+c$$
 #### Area del Segmento Parabolico
-L'area é uguale a $\frac{2}{3}$ dell'area  del rettangolo circoscritto. 
+L'area è uguale a $\frac{2}{3}$ dell'area  del rettangolo circoscritto. 
 Se la parabola é della forma $\gamma: y=ax^2+bx+c$ :
 $$\mathcal{A}=\frac{1}{6}|a||x_A-x_B|^3$$
-Se la parabola é della forma $\gamma: x=ay^2+by+c$ :
+Se la parabola è della forma $\gamma: x=ay^2+by+c$ :
 $$\mathcal{A} = \frac{1}{6}|a||y_A-y_B|^3$$
 ### Circonferenza
 $$\gamma: x^2+y^2+ax+by+c=0$$
