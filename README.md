@@ -12,7 +12,7 @@ $$ (a+b)^2 = a^2 + b^2$$
 ## Geometria Analitica
 ### Retta
 $$y=mx+q$$$$ax+by+c=0$$
-#### Retta passante per due punti $A(x_A;y_A) e B(x_B;y_B)$
+#### Retta passante per due punti $A(x_A;y_A)$ e $B(x_B;y_B)$
 $$y-y_A=\frac{y_A - y_B}{x_A-x_B}(x-x_A)$$
 #### Asse del segmento
 $$(x-x_A)^2+(y-y_A)^2=(x-x_B)^2+(y-y_B)^2$$
@@ -25,7 +25,23 @@ $(a + a'k)x \neq (b+b'k) \Rightarrow$  Fascio Proprio
 
 $(a + a'k)x = (b+b'k) \Rightarrow$  Fascio Improprio
 
-### Parabola
+### Parabola  $y=ax^2+bx+c$
+
+#### Vertice
+$$V\equiv(-\frac{b}{2a};\frac{4ac-b^2}{4a})$$
+#### Fuoco
+$$F\equiv(-\frac{b}{2a};\frac{1+ 4ac-b^2}{4a})$$
+#### Direttrice
+$$d: y=\frac{4ac-b^2-1}{4a}$$
+
+### Parabola  $x=ay^2+by+c$
+
+#### Vertice
+$$V\equiv(\frac{4ac-b^2}{4a};-\frac{b}{2a})$$
+#### Fuoco
+$$F\equiv(\frac{1+ 4ac-b^2}{4a};-\frac{b}{2a})$$
+#### Direttrice
+$$d: x=\frac{4ac-b^2-1}{4a}$$
 
 ### Circonferenza
 
