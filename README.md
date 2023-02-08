@@ -22,7 +22,7 @@ $$b=2k \ \Rightarrow \ x_{1;2} = \frac{-k \pm \sqrt{k^2-ac}}{a}$$
 #### Quadrato di binomio
 $$(a+b)^2 = a^2 + b^2$$
 
-_Vale solo in $\mathbb{R}_2$, $\mathbb{R}_a$, $\mathbb{R}_b$
+_Vale solo in $\mathbb{R}_2$, $\mathbb{R}_a$, $\mathbb{R}_b$__
 
 ## Geometria Analitica
 ### Retta
