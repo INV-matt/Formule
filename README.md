@@ -1,3 +1,16 @@
+# Indice
+- [[#Matematica]]
+	- [[#Algebra]]
+	- [[#Geometria Analitica]]
+- [[#Fisica]]
+	- [[#Cinematica]]
+	- [[#Dinamica]]
+	- [[#Relatività galileiana]]
+	- [[#Forze apparenti]]
+	- [[#Impulso e quantità di moto]]
+	- [[#Altro]]
+
+
 # Matematica
 ## Algebra
 
@@ -164,7 +177,6 @@ u_{B_z}=&u_{A_z}-v_z
 \end{cases} $$
 
 Ogni sistema di riferimento che si muove a velocità costante rispetto a un sistema inerziale è un sistema inerziale.
-
 ## Forze apparenti
 #### Peso apparente
 $$F_N=mg+ma$$
