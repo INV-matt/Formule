@@ -25,23 +25,34 @@ $(a + a'k)x \neq (b+b'k) \Rightarrow$  Fascio Proprio
 
 $(a + a'k)x = (b+b'k) \Rightarrow$  Fascio Improprio
 
-### Parabola  $y=ax^2+bx+c$
+### Parabola
+#### Parabola  $\gamma: y=ax^2+bx+c$
 
-#### Vertice
-$$V\equiv(-\frac{b}{2a};\frac{4ac-b^2}{4a})$$
-#### Fuoco
-$$F\equiv(-\frac{b}{2a};\frac{1+ 4ac-b^2}{4a})$$
-#### Direttrice
+##### Vertice
+$$V\equiv \bigg(-\frac{b}{2a};\frac{4ac-b^2}{4a} \bigg)$$
+##### Fuoco
+$$F\equiv \bigg(-\frac{b}{2a};\frac{1+ 4ac-b^2}{4a} \bigg)$$
+##### Direttrice
 $$d: y=\frac{4ac-b^2-1}{4a}$$
 
-### Parabola  $x=ay^2+by+c$
+#### Parabola  $\gamma: x=ay^2+by+c$
 
-#### Vertice
-$$V\equiv(\frac{4ac-b^2}{4a};-\frac{b}{2a})$$
-#### Fuoco
-$$F\equiv(\frac{1+ 4ac-b^2}{4a};-\frac{b}{2a})$$
-#### Direttrice
+##### Vertice
+$$V\equiv \bigg(\frac{4ac-b^2}{4a};-\frac{b}{2a} \bigg)$$
+##### Fuoco
+$$F\equiv \bigg(\frac{1+ 4ac-b^2}{4a};-\frac{b}{2a}\bigg)$$
+##### Direttrice
 $$d: x=\frac{4ac-b^2-1}{4a}$$
 
+#### Formula di Sdoppiamento
+$$\frac{y+y_0}{2}=ax_0x+b\frac{x_0+x}{2}+c$$
+#### Area del Segmento Parabolico
+L'area é uguale a $\frac{2}{3}$ dell'area  del rettangolo circoscritto. 
+Se la parabola é della forma $\gamma: y=ax^2+bx+c$ :
+$$\mathcal{A}=\frac{1}{6}|a||x_A-x_B|^3$$
+Se la parabola é della forma $\gamma: x=ay^2+by+c$ :
+$$\mathcal{A} = \frac{1}{6}|a||y_A-y_B|^3$$
 ### Circonferenza
-
+$$\gamma: x^2+y^2+ax+by+c=0$$
+##### Centro
+$$C \equiv \bigg(-\frac{1}{2}a; -\frac{1}{2}b\bigg)$$
