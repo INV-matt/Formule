@@ -91,7 +91,8 @@ v_y =  - g\Delta t
 &G = v_x\Delta t_{volo}
 \end{align}$$
 #### MPRB con lancio obliquo
-$$\begin{align} &v_0
+$$
+\begin{align} &v_0
 \begin{cases}
 v_{0_x} = v_0 \cos \theta \\
 v_{0_y} = v_0 \sin \theta
@@ -109,16 +110,19 @@ v_y = v_{0_y}- g\Delta t
 &\gamma: y=-\frac{g}{2{v_{0_x}}^2}x^2+\frac{v_{0_y}}{v_{0_x}}x\\\\
 &\Delta t_{volo}=\frac{2v_{0_y}}{g}\\\\
 &G = v_x\Delta t_{volo} = \frac{2{v_0}^2}{g}\sin \theta \cos \theta
-\end{align}$$
+\end{align}
+$$
 #### Marvel Cinematic Universe
-$$\begin{align} 
+$$
+\begin{align} 
 &v_{tang.}=\frac{\Delta l}{\Delta t}=\frac{2\pi r}{T}\\\\
 &\omega = \frac{\Delta \theta ^{^{RAD}}}{\Delta t}=\frac{2\pi}{T}\\\\
 &\therefore\ v_{tang.} = \omega r\\\\
 &a_{tang.}= COSTANTE\\
 &a_{radiale} = \frac{{v_{tang.}}^2}{r} = \omega^2r\\
 &f=T^{-1}
-\end{align}$$
+\end{align}
+$$
 La frequenza $f$ può anche essere chiamata $\nu$ 
 
 ## Dinamica
@@ -137,7 +141,8 @@ dove $W_c$ é il lavoro di una forza conservativa, ovvero una forza il cui lavor
 In particolare, per un corpo di massa $m$ ad altezza $h$ si ha che:
 $$U_P=mgh$$
 #### Principio di conservazione dell'energia meccanica
-$$\begin{align}
+$$
+\begin{align}
 &\begin{cases}
 W_{tot}=W_{cons} + W_{non\ cons} = \Delta K\\ 
 W_{cons}=-\Delta U
@@ -150,7 +155,13 @@ $$
 ## Relatività galileiana
 Ogni sistema di riferimento che si muove a velocità costante rispetto a un sistema inerziale è un sistema inerziale.
 Se si considerano i due sistemi inerziali $x_AO_Ay_A$ e $x_BO_By_B$, il secondo dei quali si muove a velocità $v$:
-$$\begin{align} \begin{cases}x_{B_x}=&x_{A_x}-v_x\Delta t\\y_{B_y}=&y_{A_y}-v_y\Delta t\\z_{B_z}=&z_{A_z}-v_z\Delta t\end{cases}\end{align}
+$$
+\begin{align}
+\begin{cases}x_{B_x}=&x_{A_x}-v_x\Delta t\\
+y_{B_y}=&y_{A_y}-v_y\Delta t
+\\z_{B_z}=&z_{A_z}-v_z\Delta t
+\end{cases}
+\end{align}
 $$
 $$\begin{align}
 &\begin{cases}
