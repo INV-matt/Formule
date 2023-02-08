@@ -113,16 +113,12 @@ v_y = v_{0_y}- g\Delta t
 \end{align}
 $$
 #### Marvel Cinematic Universe
-$$
-\begin{align} 
-&v_{tang.}=\frac{\Delta l}{\Delta t}=\frac{2\pi r}{T}\\\\
-&\omega = \frac{\Delta \theta ^{^{RAD}}}{\Delta t}=\frac{2\pi}{T}\\\\
-&\therefore\ v_{tang.} = \omega r\\\\
-&a_{tang.}= COSTANTE\\
-&a_{radiale} = \frac{{v_{tang.}}^2}{r} = \omega^2r\\
-&f=T^{-1}
-\end{align}
-$$
+$$v_{tang.}=\frac{\Delta l}{\Delta t}=\frac{2\pi r}{T}$$
+$$\omega = \frac{\Delta \theta ^{^{RAD}}}{\Delta t}=\frac{2\pi}{T}$$
+$$\therefore\ v_{tang.} = \omega r$$
+$$a_{tang.}= COSTANTE$$
+$$a_{radiale} = \frac{{v_{tang.}}^2}{r} = \omega^2r$$
+$$f=T^{-1}$$
 La frequenza $f$ può anche essere chiamata $\nu$ 
 
 ## Dinamica
