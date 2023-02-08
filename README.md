@@ -1,13 +1,13 @@
 # Indice
 - [Matematica](#Matematica)
 	- [Algebra](#Algebra)
-	- [Geometria Analitica](#Geometria Analitica)
+	- [Geometria Analitica](#Geometria-Analitica)
 - [Fisica](#Fisica)
 	- [Cinematica](#Cinematica)
 	- [Dinamica](#Dinamica)
-	- [Relatività Galileiana](#Relatività galileiana)
-	- [Forze Apparenti](#Forze apparenti)
-	- [Impulso e Quantità di moto](#Impulso e quantità di moto)
+	- [Relatività Galileiana](#Relatività-galileiana)
+	- [Forze Apparenti](#Forze-apparenti)
+	- [Impulso e Quantità di moto](#Impulso-e-quantità-di-moto)
 	- [Altro](#Altro)
 
 
