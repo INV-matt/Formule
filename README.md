@@ -91,19 +91,16 @@ v_y =  - g\Delta t
 &G = v_x\Delta t_{volo}
 \end{align}$$
 #### MPRB con lancio obliquo
-$$\begin{align} 
-&v_0
+$$\begin{align} &v_0
 \begin{cases}
 v_{0_x} = v_0 \cos \theta \\
 v_{0_y} = v_0 \sin \theta
 \end{cases}\\\\
-
 &s(\Delta t)
 \begin{cases}
 s_x = v_{0_x}\Delta t\\
 s_y = v_{0_y}\Delta t - \frac{1}{2}g\Delta t^2
 \end{cases}\\\\
-
 &v(\Delta t)
 \begin{cases}
 v_x = v_{0_x} \\
