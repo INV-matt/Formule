@@ -125,7 +125,7 @@ v_y = v_{0_y}- g\Delta t
 &G = v_x\Delta t_{volo} = \frac{2{v_0}^2}{g}\sin \theta \cos \theta
 \end{align}
 $$
-#### Marvel Cinematic Universe
+#### MCU
 $$v_{tang.}=\frac{\Delta l}{\Delta t}=\frac{2\pi r}{T}$$
 $$\omega = \frac{\Delta \theta ^{^{RAD}}}{\Delta t}=\frac{2\pi}{T}$$
 $$\therefore\ v_{tang.} = \omega r$$
