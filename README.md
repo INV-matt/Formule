@@ -80,7 +80,7 @@ $$x_0x+y_0y+a\frac{x_0+x}{2}+b\frac{y_0+y}{2}+c=0$$
 $$E = \Sigma x_ip_i$$
 ### Varianza e deviazione standard
 $\bar x$ è la media, $\sigma$ è la deviazione standard
-$$VAR = \Sigma (x_i -\bar x)^2$$$$ \sigma = \sqrt{VAR} $$
+$$VAR = \Sigma (x_i -\bar x)^2$$$$\sigma=\sqrt{VAR}$$
 
 # Fisica
 ## Statica
