@@ -2,7 +2,11 @@
 - [Matematica](#Matematica)
 	- [Algebra](#Algebra)
 	- [Geometria Analitica](#Geometria-Analitica)
+	- [Probabilità](Probabilità)
 - [Fisica](#Fisica)
+	- [Statica](#Statica)
+	- [Ottica Geometrica](#Ottica-Geometrica)
+	- [Calore e temperatura](#Calore-e-Temperatura)
 	- [Cinematica](#Cinematica)
 	- [Dinamica](#Dinamica)
 	- [Relatività Galileiana](#Relatività-galileiana)
@@ -71,7 +75,75 @@ $$r=\sqrt{x{_C}^2+y{_C}^2-c}$$
 #### Formula di sdoppiamento
 $$x_0x+y_0y+a\frac{x_0+x}{2}+b\frac{y_0+y}{2}+c=0$$
 
+## Probabilità
+### Valore atteso
+$$E = \Sigma x_ip_i$$
+### Varianza e deviazione standard
+$$\begin{align}
+VAR &= \Sigma (x_i -\bar x)^2 \\
+\sigma &= \sqrt{VAR}
+\end{align}$$
+$\bar x$ è la media, $\sigma$ è la deviazione standard
 # Fisica
+## Statica
+Un corpo è in equilibrio se la risultante delle forze è nulla: $\Sigma \vec F = 0$
+### Momento Torcente
+$$\vec M=\vec F \times b$$
+Affinchè un corpo esteso sia in quilibrio:
+$$\begin{cases}
+\Sigma \vec F = 0 \\
+\Sigma \vec M = 0
+\end{cases}$$
+
+### Idrostatica
+#### Pressione
+$$p = \frac {F_{\perp}}{S}$$
+#### Legge di Stevino
+$$p=dgh$$
+Da questa formula si ricava che la pressione atmosferica $p_0=1,013 * 10^5 Pa$
+
+#### Principio di Archimede
+$$F_A=pS=dg(h_2-h_1)S=d_{fluido}gV$$
+Da ciò si ricava che:
+$$\begin{cases}
+F_A \lt P+F_{\perp} \iff il\ corpo\ affonda \\
+F_A \gt P+F_{\perp} \iff il\ corpo\ galleggia\\
+\end{cases}
+$$
+
+## Ottica Geometrica
+$$\theta_i \cong \theta_r$$
+### Specchi sferici
+$$f=\frac{1}{2}r$$
+### Rifrazione - Legge di Snell
+$$n\sin\theta_0=n\sin\theta_1$$
+### Leggi delle lenti sottili
+$$\frac{1}{p}+\frac{1}{q}=\frac{1}{f}$$
+Dove $p$ è la distanza dell'oggetto dal centro, $q$ la distanza dell'immagine dall'oggetto e $f$ la distanza focale
+$$G = -\frac{q}{p}$$
+
+## Calore e Temperatura
+**Temperatura**: quanto le molecole di un corpo sono agitate
+**Calore**: energia, ovvero capacità di un corpo di fare qualcosa
+
+### Dilatazione termica 
+$$l_f=l_0(1+\lambda\Delta T)$$
+$$V_f=V_0(1+\beta\Delta T)$$
+
+### Calore
+$$Q=mc_s\Delta T$$
+dove $c_s$ è il calore specifico. Il calore è misurato in Joule, $1cal = 4,186 J$ 
+
+### Passaggi di stato
+$$Q = m L$$
+dove $L$ è il calore latente.
+
+### Equilibrio termico
+$$\begin{align}
+|Q_{ceduto}|&=|Q_{assorbito}| \\
+m_1 c_{s_1} (T_{eq}- T_1)&+m_2 c_{s_2} (T_{eq}- T_2) = 0
+\end{align}$$
+
 ## Cinematica
 #### MRU
 $$\begin{align}
