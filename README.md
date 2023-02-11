@@ -79,10 +79,7 @@ $$x_0x+y_0y+a\frac{x_0+x}{2}+b\frac{y_0+y}{2}+c=0$$
 ### Valore atteso
 $$E = \Sigma x_ip_i$$
 ### Varianza e deviazione standard
-$$\begin{align}
-VAR &= \Sigma (x_i -\bar x)^2 \\ 
-\sigma &= \sqrt{VAR}
-\end{align}$$
+$$VAR = \Sigma (x_i -\bar x)^2$$$$\sigma = \sqrt{VAR}$$
 dove $\bar x$ è la media, $\sigma$ è la deviazione standard
 # Fisica
 ## Statica
