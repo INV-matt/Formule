@@ -2,7 +2,7 @@
 - [Matematica](#Matematica)
 	- [Algebra](#Algebra)
 	- [Geometria Analitica](#Geometria-Analitica)
-	- [Probabilità](Probabilità)
+	- [Probabilità](#Probabilità)
 - [Fisica](#Fisica)
 	- [Statica](#Statica)
 	- [Ottica Geometrica](#Ottica-Geometrica)
