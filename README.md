@@ -85,7 +85,7 @@ VAR &= \Sigma (x_i -\bar x)^2 \\
 \sigma &= \sqrt{VAR}
 \end{align}
 $$
-$\bar x$ è la media, $\sigma$ è la deviazione standard
+dove $\bar x$ è la media, $\sigma$ è la deviazione standard
 # Fisica
 ## Statica
 Un corpo è in equilibrio se la risultante delle forze è nulla: $\Sigma \vec F = 0$
