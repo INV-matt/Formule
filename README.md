@@ -65,8 +65,11 @@ Se la parabola è della forma $\gamma: x=ay^2+by+c$ :
 $$\mathcal{A} = \frac{1}{6}|a||y_A-y_B|^3$$
 ### Circonferenza
 $$\gamma: x^2+y^2+ax+by+c=0$$
-##### Centro
+##### Centro e raggio
 $$C \equiv \bigg(-\frac{1}{2}a; -\frac{1}{2}b\bigg)$$
+$$r=\sqrt{x{_C}^2+y{_C}^2-c}$$
+#### Formula di sdoppiamento
+$$x_0x+y_0y+a\frac{x_0+x}{2}+b\frac{y_0+y}{2}+c=0$$
 
 # Fisica
 ## Cinematica
