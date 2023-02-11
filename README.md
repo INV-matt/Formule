@@ -19,10 +19,6 @@ $$x_{1;2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
 #### $\frac{\Delta}{4} :$
 
 $$b=2k \ \Rightarrow \ x_{1;2} = \frac{-k \pm \sqrt{k^2-ac}}{a}$$
-#### Quadrato di binomio
-$$(a+b)^2 = a^2 + b^2$$
-
-Vale solo in $\mathbb{R}_2$, $\mathbb{R}_a$, $\mathbb{R}_b$
 
 ## Geometria Analitica
 ### Retta
