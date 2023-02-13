@@ -231,6 +231,13 @@ W_{cons}=-\Delta U
 &W_{non\ cons} = 0 \iff \Delta K + \Delta U =0
 \end{align}
 $$
+#### Potenza
+$$
+\begin {align}
+\bar P = \frac{W}{\Delta t} \\ 
+\bar P = \vec F \cdot \bar{\vec v} 
+\end{align}
+$$
 
 ## Relatività galileiana
 $$
