@@ -4,6 +4,7 @@
 - [Matematica](#Matematica)
 	- [Algebra](#Algebra)
 	- [Geometria Analitica](#Geometria-Analitica)
+	- [Funzioni](#Funzioni)
 	- [Probabilità](#Probabilità)
 - [Fisica](#Fisica)
 	- [Statica](#Statica)
@@ -14,6 +15,7 @@
 	- [Relatività Galileiana](#Relatività-galileiana)
 	- [Forze Apparenti](#Forze-apparenti)
 	- [Impulso e Quantità di moto](#Impulso-e-quantità-di-moto)
+	- [Dinamica Rotazionale](#Dinamica-rotazionale)
 	- [Prodotti](#Prodotti)
 
 
@@ -77,6 +79,15 @@ $$r=\sqrt{x{_C}^2+y{_C}^2-c}$$
 #### Formula di sdoppiamento
 $$x_0x+y_0y+a\frac{x_0+x}{2}+b\frac{y_0+y}{2}+c=0$$
 
+## Funzioni
+
+Una relazione $f: A \to B$ è una funzione se a ogni elementoi di $A$ associa uno e un solo elemento di $B$
+
+Una funzione $f: A \to B$ è **iniettiva** se ogni elemento id $B$ è immagine al più di un elemento di $A$ $$x_1 \neq x_2 \Rightarrow f(x_1) \neq f(x_2)$$
+Una funzione $f: A \to B$ è **suriettiva** se ogni elemento di $B$ è immagine di almeno un elemento di $A$
+
+Una funzione $f: A \to B$ è **biunivoca** se è contemporaneamente iniettiva e biettiva $$f: A \leftrightarrow B$$
+
 ## Probabilità
 ### Valore atteso
 $$E = \Sigma x_ip_i$$
@@ -86,10 +97,7 @@ $$VAR = \Sigma (x_i -\bar x)^2$$$$\sigma=\sqrt{VAR}$$
 
 # Fisica
 ## Statica
-Un corpo è in equilibrio se la risultante delle forze è nulla: $\Sigma \vec F = 0$
-### Momento Torcente
-$$\vec M=\vec F \times b$$
-Affinchè un corpo esteso sia in quilibrio:
+Un corpo è in equilibrio se:
 $$\begin{cases}
 \Sigma \vec F = 0 \\
 \Sigma \vec M = 0
@@ -270,16 +278,27 @@ $$\vec F_{Cor}= 2m\vec{v}\times \vec{\omega}$$
 ## Impulso e quantità di moto
 #### Impulso
 $$\vec{I} = \vec{F}\Delta t$$
-#### Quantià di moto
+#### Quantità di moto
 $$\vec{q} = m\vec{v}$$
 #### Teorema dell'impulso
 $$\vec{I}=\Delta \vec{q}$$
+#### Urti
+Se l'urto è **elastico** $$K_f = K_i \ \ \ \ \ et \ \ \ \ q_f=q_i$$
+Se l'urto è **anelastico** $$K_f \neq K_i \ \ \ \ \ et \ \ \ \ q_f=q_i$$
 
+
+## Dinamica Rotazionale
+$$\begin{align}
+\alpha=\frac{\Delta\omega}{\Delta t} \\
+a_T=r\alpha
+\end{align}$$
+#### Momento
+$$\vec M = \vec r \times \vec F$$
 
 ## Prodotti
-### Prodotto scalare
+#### Prodotto scalare
 $$\vec{a}\cdot\vec{b} = |\vec{a}||\vec{b}|\cos(\theta) $$
-### Prodotto vettoriale
+#### Prodotto vettoriale
 $$\vec{a}\times\vec{b} = \vec{c} $$
 $$|\vec{c}| = |\vec{a}||\vec{b}|\sin(\theta) $$
-$\vec{c}$ ha direzione uguale a quella della normale del piano su cui giacciono $\vec{a}$ e $\vec{b}$ e verso determinabile con [questo schema](https://pressbooks.library.upei.ca/statics/wp-content/uploads/sites/56/2021/03/Screen-Shot-2021-07-30-at-5.06.16-PM-1024x694.png) 
+$\vec{c}$ ha direzione uguale a quella della normale del piano su cui giacciono $\vec{a}$ e $\vec{b}$ e verso determinabile con [questo schema](https://i.kym-cdn.com/entries/icons/original/000/032/116/cover1.jpg) 
