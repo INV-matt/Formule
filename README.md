@@ -81,7 +81,7 @@ $$x_0x+y_0y+a\frac{x_0+x}{2}+b\frac{y_0+y}{2}+c=0$$
 
 ## Funzioni
 
-Una relazione $f: A \to B$ è una funzione se a ogni elementoi di $A$ associa uno e un solo elemento di $B$
+Una relazione $f: A \to B$ è una funzione se a ogni elemento di $A$ associa uno e un solo elemento di $B$
 
 Una funzione $f: A \to B$ è **iniettiva** se ogni elemento id $B$ è immagine al più di un elemento di $A$ $$x_1 \neq x_2 \Rightarrow f(x_1) \neq f(x_2)$$
 Una funzione $f: A \to B$ è **suriettiva** se ogni elemento di $B$ è immagine di almeno un elemento di $A$
