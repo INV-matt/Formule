@@ -299,7 +299,7 @@ a_T=r\alpha
 $$\vec M = \vec r \times \vec F$$
 
 #### Momento di inerzia
-$$I_a=\sum mr^2$$$$\sum M_a = I_a\alpha$$
+$$I_a=\sum mr^2$$ $$\sum M_a = I_a\alpha$$
 
 ## Prodotti
 #### Prodotto scalare
