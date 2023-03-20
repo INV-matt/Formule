@@ -299,8 +299,10 @@ a_T=r\alpha
 $$\vec M = \vec r \times \vec F$$
 
 #### Momento di inerzia
-$$I_a=\sum mr^2$$ $$\sum M_a = I_a\alpha$$
-
+$$\begin{align}
+I_a=\sum mr^2\\
+\sum M_a = I_a\alpha
+\end{align}$$ 
 ## Prodotti
 #### Prodotto scalare
 $$\vec{a}\cdot\vec{b} = |\vec{a}||\vec{b}|\cos(\theta) $$
