@@ -72,12 +72,25 @@ $$\mathcal{A}=\frac{1}{6}|a||x_A-x_B|^3$$
 Se la parabola è della forma $\gamma: x=ay^2+by+c$ :
 $$\mathcal{A} = \frac{1}{6}|a||y_A-y_B|^3$$
 ### Circonferenza
-$$\gamma: x^2+y^2+ax+by+c=0$$
+$$\omega: x^2+y^2+ax+by+c=0$$
 ##### Centro e raggio
 $$C \equiv \bigg(-\frac{1}{2}a; -\frac{1}{2}b\bigg)$$
 $$r=\sqrt{x{_C}^2+y{_C}^2-c}$$
 #### Formula di sdoppiamento
 $$x_0x+y_0y+a\frac{x_0+x}{2}+b\frac{y_0+y}{2}+c=0$$
+
+### Ellisse
+Ellisse con centro in $O(0;0)$ 
+$$\omega:\frac{x^2}{a^2}+\frac{y^2}{b^2}=1$$
+Ellisse con centro in $O'(p;q)$
+$$\begin{align}
+&\omega:\frac{(x-p)^2}{a^2}+\frac{(y-q)^2}{b^2}=1\\
+&\text{oppure}\\
+&\omega:a'x^2+b'y^2+c'x+d'y+e'=0 \ \text{ (non sempre rappresenta un'ellisse) }
+\end{align}$$
+#### Formula di sdoppiamento
+$$\frac{x_0x}{a^2}+\frac{y_0y}{b^2}=1$$
+
 
 ## Funzioni
 
@@ -93,17 +106,17 @@ Dato $D\subseteq R \ |\ x\in D \Rightarrow -x \in D$, se $f(-x)=f(x),\ \forall x
 
 ## Probabilità
 ### Valore atteso
-$$E = \Sigma x_ip_i$$
+$$E = \sum x_ip_i$$
 ### Varianza e deviazione standard
 $\bar x$ è la media, $\sigma$ è la deviazione standard
-$$VAR = \Sigma (x_i -\bar x)^2$$$$\sigma=\sqrt{VAR}$$
+$$VAR = \sum (x_i -\bar x)^2$$$$\sigma=\sqrt{VAR}$$
 
 # Fisica
 ## Statica
 Un corpo è in equilibrio se:
 $$\begin{cases}
-\Sigma \vec F = 0 \\
-\Sigma \vec M = 0
+\sum \vec F = 0 \\
+\sum \vec M = 0
 \end{cases}$$
 
 ### Idrostatica
@@ -219,7 +232,7 @@ $$f=T^{-1}$$
 La frequenza $f$ può anche essere chiamata $\nu$ 
 
 ## Dinamica
-$$\Sigma \vec{F}=m \vec{a}$$
+$$\sum \vec{F}=m \vec{a}$$
 #### Lavoro con $\vec{F}$ costante
 $$W=\vec{F}\cdot\Delta\vec{ s}$$
 #### Lavoro con $\vec{F}$ variabile
@@ -302,7 +315,13 @@ $$\vec M = \vec r \times \vec F$$
 $$\begin{align}
 I_a=\sum mr^2\\
 \sum M_a = I_a\alpha
-\end{align}$$ 
+\end{align}$$
+
+#### Momento angolare
+$$\vec L=I\vec\omega$$
+se la risultante delle forze esterne è nulla: $L_f=L_i$ 
+
+
 ## Prodotti
 #### Prodotto scalare
 $$\vec{a}\cdot\vec{b} = |\vec{a}||\vec{b}|\cos(\theta) $$
