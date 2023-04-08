@@ -104,6 +104,13 @@ Una funzione $f: A \to B$ è **crescente** in un intervallo $I \subseteq \mathbb
 Una funzione $f: A \to B$ è **decrescente** in un intervallo $I \subseteq \mathbb{D}$ se $$\forall x_1,x_2 \in I, x_1 < x_2 \Rightarrow f(x_1)>f(x_2)$$
 Dato $D\subseteq R \ |\ x\in D \Rightarrow -x \in D$, se $f(-x)=f(x),\ \forall x \in D$ allora $f(x)$ è **pari**, altrimenti se se $f(-x)=-f(x),\ \forall x \in D$ allora $f(x)$ è **dispari**
 
+Comporre due funzioni $f:A\to B$ e $g:B\to C$ significa considerare una terza funzione che associa a ogni elemento di $A$ un elemento di $C$.
+Questa funzione è detta **funzione composta** $g \circ f$:
+$$(g \circ f)(x) = g(f(x))$$
+In generale $g\circ f \neq f \circ g$
+Se si compongono le due funzioni $f:A\to B$ e $f^{-1}: B\to A$, si ottiene la funzione identità:
+$$(f^{-1} \circ f)(x) = x$$
+
 ## Probabilità
 ### Valore atteso
 $$E = \sum x_ip_i$$
