@@ -30,7 +30,8 @@ $$b=2k \ \Rightarrow \ x_{1;2} = \frac{-k \pm \sqrt{k^2-ac}}{a}$$
 
 ## Geometria Analitica
 ### Retta
-$$y=mx+q$$$$ax+by+c=0$$
+$$y=mx+q$$
+$$ax+by+c=0$$
 #### Retta passante per due punti $A(x_A;y_A)$ e $B(x_B;y_B)$
 $$y-y_A=\frac{y_A - y_B}{x_A-x_B}(x-x_A)$$
 #### Asse del segmento
@@ -116,7 +117,8 @@ $$(f^{-1} \circ f)(x) = x$$
 $$E = \sum x_ip_i$$
 ### Varianza e deviazione standard
 $\bar x$ è la media, $\sigma$ è la deviazione standard
-$$VAR = \sum (x_i -\bar x)^2$$$$\sigma=\sqrt{VAR}$$
+$$VAR = \sum (x_i - \bar x)^2$$
+$$\sigma=\sqrt{VAR}$$
 
 # Fisica
 ## Statica
@@ -154,7 +156,8 @@ Dove $p$ è la distanza dell'oggetto dal centro, $q$ la distanza dell'immagine d
 $$G = -\frac{q}{p}$$
 
 ## Calore e Temperatura
-**Temperatura**: quanto le molecole di un corpo sono agitate
+**Temperatura**: quanto le molecole di un corpo sono agitate 
+
 **Calore**: energia, ovvero capacità di un corpo di fare qualcosa
 
 ### Dilatazione termica 
@@ -306,8 +309,10 @@ $$\vec{q} = m\vec{v}$$
 #### Teorema dell'impulso
 $$\vec{I}=\Delta \vec{q}$$
 #### Urti
-Se l'urto è **elastico** $$K_f = K_i \ \ \ \ \ et \ \ \ \ q_f=q_i$$
-Se l'urto è **anelastico** $$K_f \neq K_i \ \ \ \ \ et \ \ \ \ q_f=q_i$$
+Se l'urto è **elastico**: 
+$$K_f = K_i \ \ \ \ \ et \ \ \ \ q_f=q_i$$
+Se l'urto è **anelastico**: 
+$$K_f \neq K_i \ \ \ \ \ et \ \ \ \ q_f=q_i$$
 
 
 ## Dinamica Rotazionale
