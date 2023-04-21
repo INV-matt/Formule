@@ -84,11 +84,13 @@ $$x_0x+y_0y+a\frac{x_0+x}{2}+b\frac{y_0+y}{2}+c=0$$
 Ellisse con centro in $O(0;0)$ 
 $$\omega:\frac{x^2}{a^2}+\frac{y^2}{b^2}=1$$
 Ellisse con centro in $O'(p;q)$ 
-$$\begin{align}
-&\omega:\frac{(x-p)^2}{a^2}+\frac{(y-q)^2}{b^2}=1\\
-&\text{oppure}\\
-&\omega:a'x^2+b'y^2+c'x+d'y+e'=0 \ \text{ (non sempre rappresenta un'ellisse) }
-\end{align}$$
+$$
+\begin{align}
+&\omega:\frac{(x-p)^2}{a^2}+\frac{(y-q)^2}{b^2}=1 \\
+&\text{oppure} \\
+&\omega:a'x^2+b'y^2+c'x+d'y+e'=0 
+\end{align}
+$$
 #### Formula di sdoppiamento
 $$\frac{x_0x}{a^2}+\frac{y_0y}{b^2}=1$$
 
