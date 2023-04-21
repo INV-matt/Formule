@@ -83,7 +83,7 @@ $$x_0x+y_0y+a\frac{x_0+x}{2}+b\frac{y_0+y}{2}+c=0$$
 ### Ellisse
 Ellisse con centro in $O(0;0)$ 
 $$\omega:\frac{x^2}{a^2}+\frac{y^2}{b^2}=1$$
-Ellisse con centro in $O'(p;q)$
+Ellisse con centro in $O'(p;q)$ 
 $$\begin{align}
 &\omega:\frac{(x-p)^2}{a^2}+\frac{(y-q)^2}{b^2}=1\\
 &\text{oppure}\\
