@@ -92,6 +92,10 @@ $$\begin{align}
 #### Formula di sdoppiamento
 $$\frac{x_0x}{a^2}+\frac{y_0y}{b^2}=1$$
 
+### Iperbole
+Iperbole con centro in $O(0;0)$ 
+$$\omega:\frac{x^2}{a^2}-\frac{y^2}{b^2}=1$$
+
 
 ## Funzioni
 
