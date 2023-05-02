@@ -124,8 +124,14 @@ Una funzione $f: A \to B$ è **iniettiva** se ogni elemento di $B$ è immagine a
 Una funzione $f: A \to B$ è **suriettiva** se ogni elemento di $B$ è immagine di almeno un elemento di $A$
 
 Una funzione $f: A \to B$ è **biunivoca** se è contemporaneamente iniettiva e biettiva $$f: A \leftrightarrow B$$
-Una funzione $f: A \to B$ è **crescente** in un intervallo $I \subseteq \mathbb{D}$ se $$\forall x_1,x_2 \in I, x_1 < x_2 \Rightarrow f(x_1)<f(x_2)$$
-Una funzione $f: A \to B$ è **decrescente** in un intervallo $I \subseteq \mathbb{D}$ se $$\forall x_1,x_2 \in I, x_1 < x_2 \Rightarrow f(x_1)>f(x_2)$$
+Una funzione $f: A \to B$ è **crescente** in un intervallo $I \subseteq \mathbb{D}$ se 
+
+$$\forall x_1,x_2 \in I, x_1 < x_2 \Rightarrow f(x_1)<f(x_2)$$
+
+Una funzione $f: A \to B$ è **decrescente** in un intervallo $I \subseteq \mathbb{D}$ se 
+
+$$\forall x_1,x_2 \in I, x_1 < x_2 \Rightarrow f(x_1)>f(x_2)$$
+
 Dato $D\subseteq R \ |\ x\in D \Rightarrow -x \in D$, se $f(-x)=f(x),\ \forall x \in D$ allora $f(x)$ è **pari**, altrimenti se se $f(-x)=-f(x),\ \forall x \in D$ allora $f(x)$ è **dispari**
 
 Comporre due funzioni $f:A\to B$ e $g:B\to C$ significa considerare una terza funzione che associa a ogni elemento di $A$ un elemento di $C$.
