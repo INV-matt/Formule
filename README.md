@@ -109,6 +109,8 @@ $$\begin{align}
 F_{1;2}\equiv(0; \pm c)
 \end{align}$$
 
+Semiasse focale ed eccentricità
+
 $$\begin{align}
 c = \sqrt{a^2+b^2} \\
 e=\frac c a
