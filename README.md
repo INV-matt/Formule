@@ -96,12 +96,14 @@ $$\frac{x_0x}{a^2}+\frac{y_0y}{b^2}=1$$
 
 ### Iperbole
 Iperbole con centro in $O(0;0)$ e asse trasverso: asse x
+
 $$\begin{align}
 \gamma:\frac{x^2}{a^2}-\frac{y^2}{b^2}=1 \\
 F_{1;2}\equiv(\pm c; 0)
 \end{align}$$
 
 Iperbole con centro in $O(0;0)$ e asse trasverso: asse y
+
 $$\begin{align}
 \gamma:\frac{x^2}{a^2}-\frac{y^2}{b^2}=-1 \\
 F_{1;2}\equiv(0; \pm c)
