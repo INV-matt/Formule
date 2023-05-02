@@ -95,10 +95,12 @@ $$
 $$\frac{x_0x}{a^2}+\frac{y_0y}{b^2}=1$$
 
 ### Iperbole
-Iperbole con centro in $O(0;0)$ 
+Iperbole con centro in $O(0;0)$ e asse trasverso: asse x
 $$\gamma:\frac{x^2}{a^2}-\frac{y^2}{b^2}=1$$
 
-
+Iperbole con centro in $O(0;0)$ e asse trasverso: asse y
+$$\gamma:\frac{x^2}{a^2}-\frac{y^2}{b^2}=-1 \\
+c = \sqrt{a^2+b^2}$$
 ## Funzioni
 
 Una relazione $f: A \to B$ è una funzione se a ogni elemento di $A$ associa uno e un solo elemento di $B$
