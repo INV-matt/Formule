@@ -116,6 +116,31 @@ c = \sqrt{a^2+b^2} \\
 e=\frac c a
 \end{align}$$
 
+Equazione di un'iperbole generica
+
+$$ \gamma: ax^2+by^2+cx+dy+e=0 \text{, con } ab<0 $$
+
+Iperbole equilatera:
+$$ \gamma: x^2-y^2=\pm a^2 $$
+
+Se riferita agli asintoti:
+
+$$ \gamma: xy=k $$
+
+Se $k>0$:
+
+$$\begin{align}
+A_1\equiv (-\sqrt k, -\sqrt k), A_2\equiv (\sqrt k, \sqrt k) \\
+F_1\equiv (-\sqrt {2k}, -\sqrt {2k}), F_2\equiv (\sqrt {2k}, \sqrt {2k}) \\
+\end{align}$$
+
+Se $k<0$:
+
+$$\begin{align}
+A_1\equiv (-\sqrt {-k}, -\sqrt {-k}), A_2\equiv (\sqrt {-k}, \sqrt {-k}) \\
+F_1\equiv (-\sqrt {-2k}, -\sqrt {-2k}), F_2\equiv (\sqrt {-2k}, \sqrt {-2k}) \\
+\end{align}$$
+
 ## Funzioni
 
 Una relazione $f: A \to B$ è una funzione se a ogni elemento di $A$ associa uno e un solo elemento di $B$
