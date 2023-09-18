@@ -37,7 +37,7 @@ a> 1 &\iff x_1 < x_2 \iff a^{x_1}<a^{x_2} \\ \\
 &\lim_{x\to-\infty} a^x \to 0,\ (a > 1) \\ \\
 &a^n*a^m=a^{n+m} \\
 &a^n*b^n=(a*b)^n \\
-&(a^n)^m=a^{nm} \\
+&(a^n)^m=a^{nm}\\
 \end{align}
 $$
 
