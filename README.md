@@ -27,7 +27,31 @@ $$x_{1;2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
 #### $\frac{\Delta}{4} :$
 
 $$b=2k \ \Rightarrow \ x_{1;2} = \frac{-k \pm \sqrt{k^2-ac}}{a}$$
+### Funzione Esponenziale
+$$\begin{align}
+&f: \mathbb{R} \to \mathbb{R}^+ \\
+&f(x)=a^x,\ a \in \mathbb{R}^+-\{1\} \\ \\
+0 < a < 1 &\iff x_1 < x_2 \iff a^{x_1}> a^{x_2} \\
+a> 1 &\iff x_1 < x_2 \iff a^{x_1}<a^{x_2} \\ \\
+&\lim_{x\to-\infty} a^x \to 0,\ (a > 1) \\ \\
+&a^n*a^m=a^{n+m} \\
+&a^n*b^n=(a*b)^n \\
+&(a^n)^m=a^{nm}
+\end{align}$$
 
+### Funzione Logaritmica
+$$\begin{align}
+&f: \mathbb{R}^+ \to \mathbb{R} \\
+&f(x)=\log_ax,\ a \in \mathbb{R}^+-\{1\} \\ \\
+0 < a < 1 &\iff x_1 < x_2 \iff \log_ax_1 > \log_ax_2 \\
+a> 1 &\iff x_1 < x_2 \iff \log_ax_1 <\log_ax_2 \\ \\
+&\lim_{x\to-0} log_ax\to -\infty,\ (a > 1) \\ \\
+&\log_a(nm) = \log_an+\log_am \\
+&\log_a(n^m) = m\log_an\\
+&\log_a(b) = \frac{\log_ca}{\log_cb} \\
+&\log_a(-x)=\log_a(x)+\frac{(2k+1)i\pi}{\ln{a}},\ x>0,\ k\in\mathbb{Z}
+
+\end{align}$$
 ## Geometria Analitica
 ### Retta
 $$y=mx+q$$
@@ -141,6 +165,12 @@ A_1\equiv (-\sqrt {-k}, -\sqrt {-k}), A_2\equiv (\sqrt {-k}, \sqrt {-k}) \\
 F_1\equiv (-\sqrt {-2k}, -\sqrt {-2k}), F_2\equiv (\sqrt {-2k}, \sqrt {-2k}) \\
 \end{align}$$
 
+Funzione Omografica:
+$$\begin{align}
+&\gamma:y=\frac{ax+b}{cx+d},\ c\neq0\ \land\ ad\neq bc \\
+&\gamma: (x+\frac d c)(y -\frac a c )=1
+\end{align}$$
+
 ## Funzioni
 
 Una relazione $f: A \to B$ è una funzione se a ogni elemento di $A$ associa uno e un solo elemento di $B$
@@ -184,13 +214,13 @@ $$\begin{cases}
 
 ### Idrostatica
 #### Pressione
-$$p = \frac {F_{\perp}}{S}$$
+$$p = \frac {F_{\perp}}{A}$$
 #### Legge di Stevino
 $$p=dgh$$
 Da questa formula si ricava che la pressione atmosferica $p_0=1,013 * 10^5 Pa$
 
 #### Principio di Archimede
-$$F_A=pS=dg(h_2-h_1)S=d_{fluido}gV$$
+$$F_A=pA=dg(h_2-h_1)A=d_{fluido}gV$$
 Da ciò si ricava che:
 $$\begin{cases}
 F_A \lt P+F_{\perp} \iff il\ corpo\ affonda \\
