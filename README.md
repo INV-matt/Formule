@@ -37,12 +37,13 @@ a> 1 &\iff x_1 < x_2 \iff a^{x_1}<a^{x_2} \\ \\
 &\lim_{x\to-\infty} a^x \to 0,\ (a > 1) \\ \\
 &a^n*a^m=a^{n+m} \\
 &a^n*b^n=(a*b)^n \\
-&(a^n)^m=a^{nm}
+&(a^n)^m=a^{nm} \\
 \end{align}
 $$
 
 ### Funzione Logaritmica
-$$\begin{align}
+$$
+\begin{align}
 &f: \mathbb{R}^+ \to \mathbb{R} \\
 &f(x)=\log_ax,\ a \in \mathbb{R}^+-\{1\} \\ \\
 0 < a < 1 &\iff x_1 < x_2 \iff \log_ax_1 > \log_ax_2 \\
@@ -51,9 +52,9 @@ a> 1 &\iff x_1 < x_2 \iff \log_ax_1 <\log_ax_2 \\ \\
 &\log_a(nm) = \log_an+\log_am \\
 &\log_a(n^m) = m\log_an\\
 &\log_a(b) = \frac{\log_ca}{\log_cb} \\
-&\log_a(-x)=\log_a(x)+\frac{(2k+1)i\pi}{\ln{a}},\ x>0,\ k\in\mathbb{Z}
-
-\end{align}$$
+&\log_a(-x)=\log_a(x)+\frac{(2k+1)i\pi}{\ln{a}},\ x>0,\ k\in\mathbb{Z}\\
+\end{align}
+$$
 ## Geometria Analitica
 ### Retta
 $$y=mx+q$$
@@ -156,7 +157,7 @@ $$ \gamma: xy=k $$
 Se $k>0$:
 
 $$\begin{align}
-A_1\equiv (-\sqrt k, -\sqrt k), A_2\equiv (\sqrt k, \sqrt k) \\
+A_1\equiv (-\sqrt k, -\sqrt k), A_2\equiv (\sqrt k, \sqrt k) \\ 
 F_1\equiv (-\sqrt {2k}, -\sqrt {2k}), F_2\equiv (\sqrt {2k}, \sqrt {2k}) \\
 \end{align}$$
 
