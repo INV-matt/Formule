@@ -2,8 +2,8 @@
 
 # Indice
 - Matematica
-	- [Algebra](Matematica/Algebra)
-	- [Goniometria](Matematica/Goniometria)
+	- [Algebra](Formule/Matematica/Algebra)
+	- [Goniometria](Formule/Matematica/Goniometria)
 	- [Geometria Analitica](Matematica/Geometria%20Analitica)
 	- [Funzioni](Matematica/Funzioni)
 	- [Probabilità](Matematica/Probabilità)
