@@ -10,9 +10,9 @@ $$2(x_B-x_A)+2(y_B-y_A)+x_A^2+y_A^2-x_B^2-y_B^2=0$$
 $$\frac{ax+by+c}{\sqrt{(a^2+b^2)}} = \pm \frac{a'x+b'y+c'}{\sqrt{(a' ^2+b' ^2)}}$$
 #### Fascio Proprio e Improprio
 $$(a + a'k)x + (b+b'k)y + c+k=0$$
-$(a + a'k)x \neq (b+b'k) \Rightarrow$  Fascio Proprio
+$(a + a'k)x \neq (b+b'k)y \Rightarrow$  Fascio Proprio
 
-$(a + a'k)x = (b+b'k) \Rightarrow$  Fascio Improprio
+$(a + a'k)x = (b+b'k)y \Rightarrow$  Fascio Improprio
 
 ### Parabola
 #### Parabola  $\gamma: y=ax^2+bx+c$
