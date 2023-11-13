@@ -112,6 +112,6 @@ F_1\equiv (-\sqrt {-2k}, -\sqrt {-2k}), F_2\equiv (\sqrt {-2k}, \sqrt {-2k}) \\
 
 Funzione Omografica:
 $$\begin{align}
-&\gamma:y=\frac{ax+b}{cx+d},\ c\neq0\ \land\ ad\neq bc \\
-&\gamma: (x+\frac d c)(y -\frac a c )=1
+& \gamma:y=\frac{ax+b}{cx+d},\ c\neq0\ \land\ ad\neq bc \\
+& \gamma: (x+\frac d c)(y -\frac a c )=1
 \end{align}$$
