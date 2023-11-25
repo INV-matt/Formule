@@ -11,3 +11,9 @@ $$\begin{align}
 # Legge di gravitazione universale
 $$F=G\frac{m_1m_2}{d^2}$$
 con $G=6,673*10^{-11}\frac{Nm}{kg^2}$  
+
+## Accelerazione di gravità
+$$g=G\frac{M_P}{r^2_P}$$
+
+# Energia Potenziale Gravitazionale
+[Vedi qui](Fisica/Energia/#Energia%20Potenziale%20Gravitazionale)
