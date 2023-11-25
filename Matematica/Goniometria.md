@@ -44,13 +44,17 @@ $$
 $$\sin^2\alpha + \cos^2\alpha = 1$$
 
 ### Formule di addizione
-$$\sin(\alpha+\beta)=\sin\alpha\cos\beta+\sin\beta\cos\alpha$$
-$$\cos(\alpha+\beta)=\cos\alpha\cos\beta-\sin\alpha\sin\beta$$
-$$\tan(\alpha+\beta)=\frac{\tan\alpha+\tan\beta}{1-\tan\alpha\tan\beta}$$
+$$\begin{align}
+\sin(\alpha+\beta)&=\sin\alpha\cos\beta+\sin\beta\cos\alpha \\
+\cos(\alpha+\beta)&=\cos\alpha\cos\beta-\sin\alpha\sin\beta \\
+\tan(\alpha+\beta)&=\frac{\tan\alpha+\tan\beta}{1-\tan\alpha\tan\beta}
+\end{align}$$
 ### Formule di sottrazione
-$$\sin(\alpha-\beta)=\sin\alpha\cos\beta-\sin\beta\cos\alpha$$
-$$\cos(\alpha-\beta)=\cos\alpha\cos\beta+\sin\alpha\sin\beta$$
-$$\tan(\alpha-\beta)=\frac{\tan\alpha-\tan\beta}{1+\tan\alpha\tan\beta}$$
+$$\begin{align}
+\sin(\alpha-\beta)&=\sin\alpha\cos\beta-\sin\beta\cos\alpha \\ 
+\cos(\alpha-\beta)&=\cos\alpha\cos\beta+\sin\alpha\sin\beta \\
+\tan(\alpha-\beta)&=\frac{\tan\alpha-\tan\beta}{1+\tan\alpha\tan\beta}
+\end{align}$$
 ### Formule di duplicazione
 $$\begin{align}
 \sin2\alpha&=2\sin\alpha\cos\alpha \\ \\
