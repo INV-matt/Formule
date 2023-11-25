@@ -16,4 +16,4 @@ con $G=6,673*10^{-11}\frac{Nm}{kg^2}$
 $$g=G\frac{M_P}{r^2_P}$$
 
 # Energia Potenziale Gravitazionale
-[Vedi qui](Fisica/Energia/#Energia%20Potenziale%20Gravitazionale)
+[Vedi qui](Energia/#Energia%20Potenziale%20Gravitazionale)
