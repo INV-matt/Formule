@@ -3,8 +3,8 @@
 - Il raggio vettore di un pianeta spazza aree uguali in tempi uguali (dunque la velocità non è costante, ma è maggiore al perielio)
 - Il rapporto tra il quadrato del tempo di rivoluzione e il cubo del semiasse maggiore è costante per tutti i pianeti. 
 $$\begin{align}
-\frac{T^2}{a^3}=k_K \\
-\text{con }k_K=\frac{4\pi^2}{GM_S}
+\frac{T^2}{a^3}&=k_K \\
+\text{con }k_K&=\frac{4\pi^2}{GM_S}
 \end{align}$$
 
 # Legge di gravitazione universale
