@@ -13,11 +13,11 @@
 	- [Dinamica](Fisica/Dinamica.md)
 	- [Dinamica Rotazionale](Fisica/Dinamica%20rotazionale.md)
 	- [Forze Apparenti](Fisica/Forze%20apparenti.md)
-	- [Gravitazione Universale](Gravitazione%20Universale.md)
+	- [Gravitazione Universale](Fisica/Gravitazione%20Universale.md)
 	- [Impulso e Quantità di moto](Fisica/Impulso%20e%20quantità%20di%20moto.md)
-	- [Ottica Geometrica](Ottica%20Geometrica.md)
+	- [Ottica Geometrica](Fisica/Ottica%20Geometrica.md)
 	- [Prodotti](Fisica/Prodotti.md)
-	- [Relatività](Relatività.md)
+	- [Relatività](Fisica/Relatività.md)
 
 
 
