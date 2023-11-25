@@ -1,4 +1,4 @@
-## Relatività galileiana
+# Relatività galileiana
 $$
 s(\Delta t) \begin{cases}
 x_{B_x}=&x_{A_x}-v_x\Delta t \\
