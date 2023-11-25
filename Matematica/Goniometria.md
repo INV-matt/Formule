@@ -52,15 +52,15 @@ $$\sin(\alpha-\beta)=\sin\alpha\cos\beta-\sin\beta\cos\alpha$$
 $$\cos(\alpha-\beta)=\cos\alpha\cos\beta+\sin\alpha\sin\beta$$
 $$\tan(\alpha-\beta)=\frac{\tan\alpha-\tan\beta}{1+\tan\alpha\tan\beta}$$
 ### Formule di duplicazione
-$$\sin2\alpha=2\sin\alpha\cos\alpha$$
 $$\begin{align}
-\cos2\alpha&=\cos^2\alpha-\sin^2\alpha\\&=2\cos^2\alpha-1\\&=1-2\sin^2\alpha
+\sin2\alpha&=2\sin\alpha\cos\alpha \\ \\
+\cos2\alpha&=\cos^2\alpha-\sin^2\alpha\\&=2\cos^2\alpha-1\\&=1-2\sin^2\alpha \\ \\
+\tan2\alpha &= \frac{2\tan\alpha}{1-\tan^2\alpha}
 \end{align}$$
-$$\tan2\alpha = \frac{2\tan\alpha}{1-\tan^2\alpha}$$
 ### Formule di bisezione
-$$\sin\frac\alpha2=\pm\sqrt{\frac{1-\cos\alpha}2}$$
-$$\cos\frac\alpha2=\pm\sqrt{\frac{1+\cos\alpha}2}$$
 $$\begin{align}
+\sin\frac\alpha2&=\pm\sqrt{\frac{1-\cos\alpha}2} \\ \\
+\cos\frac\alpha2&=\pm\sqrt{\frac{1+\cos\alpha}2} \\ \\
 \tan\frac\alpha2&=\pm\sqrt{\frac{1-\cos\alpha}{1+\cos\alpha}} \\
 &=\pm\frac{\sin\alpha}{1+\cos\alpha} \\ 
 &=\pm\frac{1-\cos\alpha}{\sin\alpha} \\
