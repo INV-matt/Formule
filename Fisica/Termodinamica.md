@@ -64,6 +64,7 @@ $$
 ma $\Delta T = 0$, dunque $Q=W$
 
 Graficamente, il lavoro è pari a
+
 $$
 \begin{align}
 W^{^B}_{_A}&=\int_{A}^B p(V) \, dV \\
