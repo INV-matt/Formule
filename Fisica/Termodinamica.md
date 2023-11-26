@@ -56,6 +56,7 @@ $$
 
 ### T. Isoterme
 In un gas ideale:
+
 $$
 \Delta U=\frac{3}{2}nR\Delta T
 $$
