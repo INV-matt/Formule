@@ -17,6 +17,7 @@ Se due S.T. sono individualmente in equilibrio termico con un terzo S.T., allora
 $$
 \Delta U = Q - W
 $$
+
 $U$ è funzione di stato: dipende unicamente dallo stato del sistema e non da come è stato raggiunto quello stato.
 $Q$ e $W$ non sono funzioni di stato.
 
@@ -58,11 +59,7 @@ In un gas ideale:
 $$
 \Delta U=\frac{3}{2}nR\Delta T
 $$
-ma $\Delta T = 0$, dunque
-
-$$
-Q=W
-$$
+ma $\Delta T = 0$, dunque $Q=W$
 
 $$
 \begin{align}
