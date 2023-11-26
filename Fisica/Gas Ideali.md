@@ -24,6 +24,7 @@ Lo stato di un gas è determinato da 5 variabili termodinamiche:
 
 # Leggi di Gay-Lussac
 Descrivono trasformazioni __isobare__ e __isocore__
+
 $$\begin{align}
 V_1&=\frac{V_0}{T_0}T_1 \\
 V_1&=\frac{V_0}{T_0}T_1 \\
@@ -31,6 +32,7 @@ V_1&=\frac{V_0}{T_0}T_1 \\
 
 ## Legge di Boyle
 Descrive trasformazioni isoterme
+
 $$
 \begin{align}
 p &\propto \frac{1}{V} \\ \\
