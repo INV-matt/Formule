@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com) ![forthebadge](assets/badges/approved-by-giacomino-botti.svg) ![forthebadge](assets/badges/does-not-contain-friction.svg) 
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) ![forthebadge](assets/badges/approved-by-giacomino-botti.svg) ![forthebadge](assets/badges/does-not-contain-friction.svg) 
 # Indice
 - Matematica
 	- [Algebra](Matematica/Algebra.md)
