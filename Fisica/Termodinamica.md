@@ -67,9 +67,9 @@ Graficamente, il lavoro tra gli stati A e B è pari a:
 
 $$
 \begin{align}
-W&=\int_A^B p(V) \, dV \\
-W&=\int_A^B \frac{nRT}{V} \, dV \\
-W&=nRT \int _A^B \frac{1}{V}\, dx \\
-W&=nRT\ln \frac{V_B}{V_A}  
+W_{_A}^{^B}&=\int_A^B p(V) \, dV \\
+&=\int_A^B \frac{nRT}{V} \, dV \\
+&=nRT \int _A^B \frac{1}{V}\, dx \\
+&=nRT\ln \frac{V_B}{V_A}  
 \end{align}
 $$
