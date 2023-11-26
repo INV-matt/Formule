@@ -1,4 +1,15 @@
 # Retta
+```functionplot
+---
+xLabel: x
+yLabel: y
+bounds: [-5,5,-5,5]
+disableZoom: False
+grid: True
+---
+f(x)=2x+2
+```
+
 $$y=mx+q$$
 $$ax+by+c=0$$
 ## Retta passante per due punti $A(x_A;y_A)$ e $B(x_B;y_B)$
