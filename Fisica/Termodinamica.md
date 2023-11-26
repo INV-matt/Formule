@@ -59,6 +59,7 @@ In un gas ideale:
 $$
 \Delta U=\frac{3}{2}nR\Delta T
 $$
+
 ma $\Delta T = 0$, dunque $Q=W$
 
 $$
