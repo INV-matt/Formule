@@ -13,7 +13,6 @@ Un S.T. è:
 # Principio Zero
 Se due S.T. sono individualmente in equilibrio termico con un terzo S.T., allora sono in equilibrio termico tra di loro.
 
----
 # Primo principio
 $$
 \Delta U = Q - W
@@ -64,11 +63,11 @@ $$
 
 ma $\Delta T = 0$, dunque $Q=W$
 
-Graficamente, il lavoro è pari a
+Graficamente, il lavoro è pari a:
 
 $$\begin{align}
 W^{^B}_{_A}&=\int_{A}^B p(V) \, dV \\
-&=\int_{A}^B \frac{nRT}{V} \, dV \\
-&=nRT \int _{A}^B \frac{1}{V}\, dx \\
-&=nRT\ln \frac{V_{B}}{V_{A}}  
+W^{^B}_{_A}&=\int_{A}^B \frac{nRT}{V} \, dV \\
+W^{^B}_{_A}&=nRT \int _{A}^B \frac{1}{V}\, dx \\
+W^{^B}_{_A}&=nRT\ln \frac{V_{B}}{V_{A}}  
 \end{align}$$
