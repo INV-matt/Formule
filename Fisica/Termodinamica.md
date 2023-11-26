@@ -63,6 +63,7 @@ $$
 
 ma $\Delta T = 0$, dunque $Q=W$
 
+
 $$
 \begin{align}
 W^{^B}_{_A}&=\int_{A}^B p(V) \, dV \\
