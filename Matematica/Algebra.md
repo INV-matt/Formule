@@ -5,8 +5,7 @@ $$x_{1;2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
 
 $$b=2k \ \Rightarrow \ x_{1;2} = \frac{-k \pm \sqrt{k^2-ac}}{a}$$
 # Funzione Esponenziale
-
-$$
+```math
 \begin{align}
 &f: \mathbb{R} \to \mathbb{R}^+ \\
 &f(x)=a^x,\ a \in \mathbb{R}^+-\{1\} \\ \\
@@ -17,7 +16,7 @@ a> 1 &\iff x_1 < x_2 \iff a^{x_1}<a^{x_2} \\ \\
 &a^n*b^n=(a*b)^n \\
 &(a^n)^m=a^{nm}\\
 \end{align}
-$$
+```
 
 # Funzione Logaritmica
 $$
