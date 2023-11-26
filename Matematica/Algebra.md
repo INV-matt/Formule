@@ -5,6 +5,7 @@ $$x_{1;2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
 
 $$b=2k \ \Rightarrow \ x_{1;2} = \frac{-k \pm \sqrt{k^2-ac}}{a}$$
 # Funzione Esponenziale
+
 $$
 \begin{align}
 &f: \mathbb{R} \to \mathbb{R}^+ \\
