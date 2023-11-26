@@ -63,11 +63,11 @@ $$
 
 ma $\Delta T = 0$, dunque $Q=W$
 
-Graficamente, il lavoro è pari a:
+Graficamente, il lavoro tra gli stati A e B è pari a:
 
 $$\begin{align}
-W^{^B}_{_A}&=\int_{A}^B p(V) \, dV \\
-W^{^B}_{_A}&=\int_{A}^B \frac{nRT}{V} \, dV \\
-W^{^B}_{_A}&=nRT \int _{A}^B \frac{1}{V}\, dx \\
-W^{^B}_{_A}&=nRT\ln \frac{V_{B}}{V_{A}}  
+W&=\int_{A}^B p(V) \, dV \\
+W&=\int_{A}^B \frac{nRT}{V} \, dV \\
+W&=nRT \int _{A}^B \frac{1}{V}\, dx \\
+W&=nRT\ln \frac{V_{B}}{V_{A}}  
 \end{align}$$
