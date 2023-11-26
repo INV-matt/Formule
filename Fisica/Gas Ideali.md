@@ -40,3 +40,19 @@ p_{1}V_{1}&=p_{2}V_{2}
 \end{align}
 $$
 
+# Equazione di stato
+$$
+\begin{align}
+p \propto n \ \land \ p &\propto \frac{1}{V} \ \land p \propto T \\ \\
+\therefore \ p &\propto \frac{nT}{V} \\
+\end{align}
+$$
+
+Si introduce dunque la costante universale dei gas $R=8,314 \frac{J}{mol}$
+
+$$pV = nRT$$
+
+Definendo $k_{B}=\frac{R}{N_{A}}$
+
+$$pV=Nk_{B}T$$
+dove $N$ è il numero di molecole
