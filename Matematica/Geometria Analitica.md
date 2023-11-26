@@ -1,5 +1,4 @@
 # Retta
-![Retta](../assets/graphs/retta.svg)
 $$y=mx+q$$
 $$ax+by+c=0$$
 ## Retta passante per due punti $A(x_A;y_A)$ e $B(x_B;y_B)$
