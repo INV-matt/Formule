@@ -19,6 +19,7 @@
 	- [Ottica Geometrica](Fisica/Ottica%20Geometrica.md)
 	- [Prodotti](Fisica/Prodotti.md)
 	- [Relatività](Fisica/Relatività.md)
+	- [Termodinamica](Fisica/Termodinamica.md)
 
 
 

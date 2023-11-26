@@ -55,4 +55,27 @@ $$pV = nRT$$
 Definendo $k_{B}=\frac{R}{N_{A}}$
 
 $$pV=Nk_{B}T$$
-dove $N$ è il numero di molecole
+dove $N$ è il numero di molecole.
+Da queste risulta che una mole di un gas ideale a pressione e temperatura normali occupa un volume $V=2,24*10^{-2}m^{3}$
+
+# Teoria Cinetica
+$$
+\begin{align}
+\bar{K}&=\frac{3}{2}k_{B}T \\
+\text{da }&\text{cui} \\
+v_{qm}&=\sqrt{ \frac{3k_{B}T}{m} }
+\end{align}
+$$
+
+## Gradi di libertà
+In un gas a equilibrio termico a temperatura $T$, a ogni grado di libertà è associata un'energia media $\frac{1}{2}k_{B}T$
+
+## Energia interna
+È la somma delle energie degli atomi
+
+$$
+\begin{align}
+U&=N\bar{K} \\
+U&=\frac{3}{2}nRT
+\end{align}
+$$
