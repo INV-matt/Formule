@@ -61,9 +61,9 @@ $$
 \Delta U=\frac{3}{2}nR\Delta T
 $$
 
-ma $\Delta T = 0$, dunque $Q=W$ 
+ma $\Delta T = 0$, dunque $Q=W$
 
-
+Graficamente, il lavoro è pari a
 $$
 \begin{align}
 W^{^B}_{_A}&=\int_{A}^B p(V) \, dV \\
