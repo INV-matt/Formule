@@ -75,4 +75,5 @@ $p \implies q \iff \lnot q \implies \lnot p$
 
 ## Eliminazione della congiunzione
 $p\land q$ è vera, ma $p \vdash q$
+
 $p\land q$ è vera, ma $q \vdash p$
