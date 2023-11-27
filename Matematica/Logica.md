@@ -65,15 +65,30 @@ Simboli poco usati:
 
 
 # Regole
-
 ## Regole di De Morgan
-- $\lnot (p \land q) \iff \lnot p \lor \lnot q$
-- $\lnot (p \lor q) \iff \lnot p \land \lnot q$
+- $\lnot (p \land q) \iff \lnot p \lor \lnot q$.
+- $\lnot (p \lor q) \iff \lnot p \land \lnot q$.
 
 ## Modus tollens
-$p \implies q \iff \lnot q \implies \lnot p$
+$p \implies q \iff \lnot q \implies \lnot p$.
+
+## Doppia negazione
+$\lnot(\lnot p) \iff p$.
+
+## Assurdo
+$p \implies (q \land \lnot q) \vdash \lnot p$.
+$\lnot p \implies (q \land \lnot q) \vdash p$ (prova indiretta).
+
+## Eliminazione della disgiunzione (dilemma costruttivo)
+$p \implies r, q \implies r \vdash (p \lor q) \implies r$
+
+## Introduzione della disgiunzione
+$p$ è vera $\vdash p \lor q$ è vera.
 
 ## Eliminazione della congiunzione
-$p\land q$ è vera, ma $p \vdash q$
+$p\land q$ è vera, ma $p \vdash q$.
 
-$p\land q$ è vera, ma $q \vdash p$
+$p\land q$ è vera, ma $q \vdash p$.
+
+# Introduzione della congiunzione
+$p$ è vera, $q$ è vera $\vdash p \land q$ è vera.
