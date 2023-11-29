@@ -58,7 +58,9 @@ $$\begin{align}
 # Formule di duplicazione
 $$\begin{align}
 \sin2\alpha&=2\sin\alpha\cos\alpha \\ \\
-\cos2\alpha&=\cos^2\alpha-\sin^2\alpha \\ &=2\cos^2\alpha-1 \\ &=1-2\sin^2\alpha \\ \\
+\cos2\alpha&=\cos^2\alpha-\sin^2\alpha \\ 
+&=2\cos^2\alpha-1 \\  
+&=1-2\sin^2\alpha \\ \\
 \tan2\alpha&=\frac{2\tan\alpha}{1-\tan^2\alpha}
 \end{align}$$
 # Formule di bisezione

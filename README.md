@@ -5,8 +5,8 @@
 	- [Funzioni](Matematica/Funzioni.md)
 	- [Geometria Analitica](Matematica/Geometria%20Analitica.md)
 	- [Goniometria](Matematica/Goniometria.md)
-	- [Probabilità](Matematica/Probabilità.md)
 	- [Logica](Matematica/Logica.md)
+	- [Probabilità](Matematica/Probabilità.md)
 - Fisica
 	- [Calorimetria](Fisica/Calorimetria.md)
 	- [Cinematica](Fisica/Cinematica.md)
