@@ -72,3 +72,13 @@ $$\begin{align}
 &=\pm\frac{1-\cos\alpha}{\sin\alpha} \\
 \text{con}\ \alpha&\neq(2k+1)\pi,\ k\in\mathbb{Z}
 \end{align}$$
+
+# Formule parametriche
+$$
+\begin{align}
+\sin \alpha&=\frac{2t}{1+t^2} \\
+\cos \alpha&=\frac{1-t^2}{1+t^2}  \\
+\end{align}
+$$
+
+Con $t=\tan\frac{\alpha}{2}$ e $\alpha\neq \pi+2k\pi$ .
