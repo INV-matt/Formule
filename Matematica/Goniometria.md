@@ -92,22 +92,26 @@ Con $t=\tan\frac{\alpha}{2}$ e $\alpha\neq \pi+2k\pi$ .
 # Risoluzione di equazioni lineari in seno e coseno
 ## Metodo algebrico
 Risoluzione attraverso le [formule parametriche](#Formule%20parametriche)
-	
+
 ## Metodo geometrico
 Riscriviamo l'equazione $a\sin x+b\cos x+c=0$ come:
+
 $$
 \begin{cases}
 a\sin x+b\cos x+c=0 \\
 \cos^2x + \sin^2 x = 0 \\
 \end{cases}
 $$
+
 Poniamo $X := \cos x$ e $Y:=\sin x$: 
+
 $$
 \begin{cases}
 aY+bX+c=0 \\
 X^2+Y^2=1
 \end{cases}
 $$
+
 Questo sistema rappresenta l'intersezione tra una circonferenza e una retta.
 ## Metodo dell'angolo aggiunto
 $$
