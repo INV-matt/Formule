@@ -11,12 +11,14 @@
 
 # Area di un triangolo qualsiasi
 In un triangolo qualsiasi, l'area è uguale al prodotto tra due lati e il seno dell'angolo compreso.
+
 $$
 \mathcal A = \frac{1}{2}ab\sin\gamma
 $$
 
 # Teorema della corda
 La lunghezza di una corda di una circonferenza è uguale al prodotto tra il diametro e l'angolo alla circonferenza che insiste sulla corda.
+
 $$
 \overline{AB} = 2r\sin\alpha
 $$
@@ -27,6 +29,7 @@ Si hanno casi particolari quando:
 - $\overline{AB} = r$: esagono regolare inscritto
 # Teorema dei seni
 In un triangolo qualunque, vale:
+
 $$
 \frac{a}{\sin\alpha}=\frac{b}{\sin\beta}=\frac{c}{\sin\gamma}=2r
 $$
