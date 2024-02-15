@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.2139587"
-     inkscape:cx="310.96609"
-     inkscape:cy="282.54668"
+     inkscape:zoom="2.0996094"
+     inkscape:cx="256"
+     inkscape:cy="282.43349"
      inkscape:window-width="1884"
      inkscape:window-height="1009"
      inkscape:window-x="0"
@@ -58,6 +58,24 @@
        width="35.977247"
        height="33.483504"
        id="rect1" />
+    <rect
+       x="442.0751"
+       y="395.6405"
+       width="35.977245"
+       height="33.483505"
+       id="rect1-1" />
+    <rect
+       x="22.293514"
+       y="381.54117"
+       width="58.434586"
+       height="56.338226"
+       id="rect3-3" />
+    <rect
+       x="22.293514"
+       y="381.54117"
+       width="58.434586"
+       height="56.338226"
+       id="rect3-9" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -70,7 +88,10 @@
        height="381.58987"
        x="0"
        y="40.376678"
-       inkscape:label="bg" />
+       inkscape:label="bg"
+       inkscape:export-filename="tri_ret.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
        d="M 65.918246,378.54118 C 448.23994,98.776041 448.23994,98.776041 448.23994,98.776041 V 378.54118 Z"
@@ -85,12 +106,20 @@
          id="tspan4">A</tspan></text>
     <text
        xml:space="preserve"
+       id="text1-5"
+       style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1-1);display:inline;fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none"
+       transform="translate(-205.20136,-186.94904)"><tspan
+         x="442.07422"
+         y="417.77399"
+         id="tspan7">a</tspan></text>
+    <text
+       xml:space="preserve"
        id="text2"
        style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none"
        transform="translate(6.0352385,6.4646686)"><tspan
          x="442.18164"
          y="82.340392"
-         id="tspan7">B</tspan></text>
+         id="tspan8">B</tspan></text>
     <text
        xml:space="preserve"
        id="text3"
@@ -98,7 +127,15 @@
        transform="translate(16.052614,1.4440434)"><tspan
          x="22.292969"
          y="403.67438"
-         id="tspan8">C</tspan></text>
+         id="tspan9">C</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3-8"
+       style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3-3);display:inline;fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none"
+       transform="translate(434.25803,-148.02104)"><tspan
+         x="22.292969"
+         y="403.67438"
+         id="tspan10">c</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
        id="rect4"
@@ -117,7 +154,7 @@
     <text
        xml:space="preserve"
        id="text5"
-       style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5);fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none" />
+       style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="font-size:32px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none"
@@ -151,5 +188,17 @@
          x="111.78322"
          y="366.93088"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Standard Symbols PS';-inkscape-font-specification:'Standard Symbols PS'">g</tspan></text>
+    <g
+       id="g1"
+       transform="translate(215.20108,3.2102888)">
+      <text
+         xml:space="preserve"
+         id="text3-4"
+         style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3-9);display:inline;fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none"
+         transform="translate(16.052614,1.4440434)"><tspan
+           x="22.292969"
+           y="403.67438"
+           id="tspan11">b</tspan></text>
+    </g>
   </g>
 </svg>
