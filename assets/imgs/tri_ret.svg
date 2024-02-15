@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.7167969"
-     inkscape:cx="281.62912"
-     inkscape:cy="535.88168"
+     inkscape:zoom="1.2139587"
+     inkscape:cx="310.96609"
+     inkscape:cy="282.54668"
      inkscape:window-width="1884"
      inkscape:window-height="1009"
      inkscape:window-x="0"
@@ -63,6 +63,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:6;stroke-dasharray:none"
+       id="rect6"
+       width="512"
+       height="381.58987"
+       x="0"
+       y="40.376678"
+       inkscape:label="bg" />
     <path
        style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
        d="M 65.918246,378.54118 C 448.23994,98.776041 448.23994,98.776041 448.23994,98.776041 V 378.54118 Z"
@@ -71,7 +79,7 @@
        xml:space="preserve"
        id="text1"
        style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none"
-       transform="translate(7.5426621,-16.686104)"><tspan
+       transform="translate(7.5426621,-12.655566)"><tspan
          x="442.07422"
          y="417.77399"
          id="tspan4">A</tspan></text>
@@ -79,7 +87,7 @@
        xml:space="preserve"
        id="text2"
        style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none"
-       transform="translate(6.3652526,10.522287)"><tspan
+       transform="translate(6.0352385,6.4646686)"><tspan
          x="442.18164"
          y="82.340392"
          id="tspan7">B</tspan></text>
@@ -87,7 +95,7 @@
        xml:space="preserve"
        id="text3"
        style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000;stroke:none;stroke-width:6;stroke-dasharray:none"
-       transform="translate(18.391939,-2.2399981)"><tspan
+       transform="translate(16.052614,1.4440434)"><tspan
          x="22.292969"
          y="403.67438"
          id="tspan8">C</tspan></text>
