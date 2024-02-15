@@ -65,17 +65,18 @@ La frequenza $f$ può anche essere chiamata $\nu$
 $$
 \begin{align}
 x(t) &= A\sin(\omega t+\varphi) \\
-x(t) &= \omega A\cos(\omega t+\varphi) \\
-x(t) &= -\omega^2A\sin(\omega t+\varphi) \\
+v(t) &= \omega A\cos(\omega t+\varphi) \\
+a(t) &= -\omega^2A\sin(\omega t+\varphi) \\
 \end{align}
 $$
 ## Diametro orizzontale
 $$
 \begin{align}
 x(t) &= A\cos(\omega t+\varphi) \\
-x(t) &= -\omega A\sin(\omega t+\varphi) \\
-x(t) &= -\omega^2A\cos(\omega t+\varphi) \\
+v(t) &= -\omega A\sin(\omega t+\varphi) \\
+a(t) &= -\omega^2A\cos(\omega t+\varphi) \\
 \end{align}
 $$
 ## Altro
-- Periodo: $T=\frac {2\pi}{\omega}$ x
+- Periodo: $T=\frac {2\pi}{\omega}$ 
+- $\vec{a}=-\omega^2\vec{x}$ 
