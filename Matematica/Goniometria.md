@@ -84,10 +84,18 @@ $$
 Con $t=\tan\frac{\alpha}{2}$ e $\alpha\neq \pi+2k\pi$ .
 
 # Formule di prostaferesi
-...
+
+$$ 
+\begin{align}
+\sin \alpha + \sin \beta &= 2 \sin\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2} \\
+\sin \alpha - \sin \beta &= 2 \sin\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2} \\
+\cos \alpha + \cos \beta &= 2 \cos\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2} \\
+\cos \alpha - \cos \beta &= -2 \sin\frac{\alpha+\beta}{2}\sin\frac{\alpha-\beta}{2} \\
+\end{align} 
+$$
 
 # Formule di Werner
-...
+Bruh ricavatele da prostaferesi
 
 # Risoluzione di equazioni lineari in seno e coseno
 ## Metodo algebrico

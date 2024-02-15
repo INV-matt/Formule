@@ -7,6 +7,7 @@
 	- [Goniometria](Matematica/Goniometria.md)
 	- [Logica](Matematica/Logica.md)
 	- [Probabilità](Matematica/Probabilità.md)
+	- [Trigoniometria](Matematica/Trigoniometria.md)
 - Fisica
 	- [Calorimetria](Fisica/Calorimetria.md)
 	- [Cinematica](Fisica/Cinematica.md)
