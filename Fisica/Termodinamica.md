@@ -84,6 +84,7 @@ Una trasformazione è reversibile se il sistema e il suo ambiente possono essere
 **T. di Carnot**: nessuna macchina termica irreversibile che opera tra due serbatoi a temperatura costante può avere un rendimento maggiore di una macchina reversibile che opera tra le stesse temperature.
 
 Si può dimostrare che in una macchina di Carnot: 
+
 $$
 \eta_{Carnot} = 1 - \frac{| Q_{f} |}{Q_{c}} = 1 - \frac{| T_{f} |}{T_{c}}
 $$
