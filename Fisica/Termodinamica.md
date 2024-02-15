@@ -73,3 +73,26 @@ W_{_A}^{^B}&=\int_A^B p(V) \, dV \\
 &=nRT\ln \frac{V_B}{V_A}  
 \end{align}
 $$
+
+# Secondo principio
+- **E. di Kelvin**: è impossibile realizzare una trasformazione in cui l'unico risultato sia quello di convertire in lavoro tutto il calore assorbito da un'unica sorgente
+- **E. di Clausius**: è impossibile realizzare una trasformazione in cui l'unico risultato sia il passaggio di calore da un corpo con una data temperatura a un corpo con una temperatura maggiore
+
+## Teorema di Carnot e macchina di Carnot
+Una trasformazione è reversibile se il sistema e il suo ambiente possono essere riportati nell'identico stato in cui si trovavano inizialmente, effettuando la trasformazione a ritroso.
+
+**T. di Carnot**: nessuna macchina termica irreversibile che opera tra due serbatoi a temperatura costante può avere un rendimento maggiore di una macchina reversibile che opera tra le stesse temperature.
+
+Si può dimostrare che in una macchina di Carnot: 
+$$
+\eta_{Carnot} = 1 - \frac{| Q_{f} |}{Q_{c}} = 1 - \frac{| T_{f} |}{T_{c}}
+$$
+
+# Entropia
+È un modo per quantificare la degenerazione della qualità dell'energia in un processo. Infatti un'energia termica ad alta temperatura è più "pregiata" della stessa a bassa temperatura in quanto permette rendimenti più elevati.
+La variazione dell'entropia è il rapporto tra il calore scambiato dal sistema e la temperatura assoluta a cui viene scambiato.
+$$
+\Delta S=\left( \frac{Q}{T} \right)_{R}
+$$
+Il pedice $R$ indica che la trasformazione deve essere reversibile.
+Si può dimostrare che $\Delta S = 0$ in una trasformazione reversibile e $\Delta S > 0$ in una trasformazione irreversibile.

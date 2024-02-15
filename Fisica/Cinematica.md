@@ -59,3 +59,23 @@ $$a_{tang.}= COSTANTE$$
 $$a_{radiale} = \frac{{v_{tang.}}^2}{r} = \omega^2r$$
 $$f=T^{-1}$$
 La frequenza $f$ può anche essere chiamata $\nu$ 
+
+# MAS
+## Diametro veritcale
+$$
+\begin{align}
+x(t) &= A\sin(\omega t+\varphi) \\
+x(t) &= \omega A\cos(\omega t+\varphi) \\
+x(t) &= -\omega^2A\sin(\omega t+\varphi) \\
+\end{align}
+$$
+## Diametro orizzontale
+$$
+\begin{align}
+x(t) &= A\cos(\omega t+\varphi) \\
+x(t) &= -\omega A\sin(\omega t+\varphi) \\
+x(t) &= -\omega^2A\cos(\omega t+\varphi) \\
+\end{align}
+$$
+## Altro
+- Periodo: $T=\frac {2\pi}{\omega}$ x
