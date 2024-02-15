@@ -91,6 +91,7 @@ $$
 # Entropia
 È un modo per quantificare la degenerazione della qualità dell'energia in un processo. Infatti un'energia termica ad alta temperatura è più "pregiata" della stessa a bassa temperatura in quanto permette rendimenti più elevati.
 La variazione dell'entropia è il rapporto tra il calore scambiato dal sistema e la temperatura assoluta a cui viene scambiato.
+
 $$
 \Delta S=\left( \frac{Q}{T} \right)_{R}
 $$
