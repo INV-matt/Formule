@@ -95,5 +95,6 @@ La variazione dell'entropia è il rapporto tra il calore scambiato dal sistema e
 $$
 \Delta S=\left( \frac{Q}{T} \right)_{R}
 $$
+
 Il pedice $R$ indica che la trasformazione deve essere reversibile.
 Si può dimostrare che $\Delta S = 0$ in una trasformazione reversibile e $\Delta S > 0$ in una trasformazione irreversibile.
