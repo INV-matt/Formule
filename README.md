@@ -24,20 +24,6 @@
 
 
 
-Esercizio recente odiato dall'intera classe:
-
-$$
-\begin{align}
-&\cos 2x - 2\cos\left( x+\frac{3}{4}\pi \right) = 0 \\
-&\cos^2x-\sin^2x - 2\left( -\frac{\sqrt{ 2 }}{2} \cos x-\frac{\sqrt{ 2 }}{2}\sin x \right) = 0 \\
-&(\cos x + \sin x)(\cos x - \sin x)+\sqrt{ 2 }(\cos x + \sin x) = 0 \\
-&(\cos x + \sin x)(\cos x - \sin x + \sqrt{ 2 }) = 0  \\
-
-\end{align}
-$$
-
-
-
 
 
 
