@@ -6,10 +6,12 @@
 - Un fascio di piani paralleli intersecati da 2 rette trasversali intercetta su di esse segmenti corrispondenti proporzionali.
 # Aree e Volumi
 ## Prisma retto
+
 $$\begin{align}
 {A}_{l}=2ph \\
 V={A}_{b}h 
 \end{align}$$
+
 
 ## Piramide retta
 $$\begin{align}
