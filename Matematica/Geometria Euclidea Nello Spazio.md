@@ -7,9 +7,9 @@
 # Aree e Volumi
 ## Prisma retto
 
-$$\begin{align}
+$$\begin{align}  
 {A}_{l}&=2ph  
-V&={A}_{b}h 
+V&={A}_{b}h   
 \end{align}$$
 
 
