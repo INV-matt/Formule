@@ -12,7 +12,8 @@ V=\mathcal{A}_{b}h
 \end{align}$$
 
 ## Piramide retta
-$$\begin{align}
+$$\begin{align}  \\
+
 \mathcal{A}_{l}&=pa \\
 V&=\frac{1}{3}\mathcal{A}_{b}h
 \end{align}$$
