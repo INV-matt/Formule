@@ -4,6 +4,7 @@
 	- [Algebra](Matematica/Algebra.md)
 	- [Funzioni](Matematica/Funzioni.md)
 	- [Geometria Analitica](Matematica/Geometria%20Analitica.md)
+	- [Geometria Euclidea nello Spazio](Geometria%20Euclidea%20Nello%20Spazio.md)
 	- [Goniometria](Matematica/Goniometria.md)
 	- [Logica](Matematica/Logica.md)
 	- [Probabilità](Matematica/Probabilità.md)
