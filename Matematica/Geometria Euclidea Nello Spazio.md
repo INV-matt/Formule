@@ -15,14 +15,14 @@ V&={A}_{b}h
 
 ## Piramide retta
 $$\begin{align}
-\mathcal{A}_{l}&=pa \\
-V&=\frac{1}{3}\mathcal{A}_{b}h
+A_{l}&=pa \\
+V&=\frac{1}{3}A_{b}h
 \end{align}$$
 
 ## Tronco di piramide retta
 $$\begin{align}
-\mathcal{A}_{l}&=(p+p') a \\ \\
-V&=\frac{1}{3}h(\mathcal{A}+\mathcal{A}'+\sqrt{ \mathcal{A}\mathcal{A}' })
+A_{l}&=(p+p') a \\ \\
+V&=\frac{1}{3}h(A+A'+\sqrt{ AA' })
 \end{align}$$
 
 ## Cilindro
