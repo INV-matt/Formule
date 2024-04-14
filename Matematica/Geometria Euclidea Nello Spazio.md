@@ -28,8 +28,8 @@ V&=\frac{1}{3}h(A+A'+\sqrt{ AA' })
 ## Cilindro
 
 $$\begin{align}
-\mathcal{A}_{l}&=2\pi rh \\ \\
-\mathcal{A}_{t}&=2\pi r(r+h) \\ \\
+A_{l}&=2\pi rh \\
+A_{t}&=2\pi r(r+h) \\
 V&=\pi r^2h
 \end{align}$$
 
@@ -37,8 +37,8 @@ V&=\pi r^2h
 ## Cono
 
 $$\begin{align}
-\mathcal{A}_{l}&=\pi ra \\
-\mathcal{A}_{t}&=\pi r(r+a)  \\
+A_{l}&=\pi ra \\
+A_{t}&=\pi r(r+a)  \\
 V&=\frac{1}{3}\pi r^2h
 \end{align}$$
 
@@ -46,13 +46,13 @@ V&=\frac{1}{3}\pi r^2h
 ## Tronco di cono
 
 $$\begin{align}
-\mathcal{A}_{l}&=\pi a(r+r') \\ 
+A_{l}&=\pi a(r+r') \\ 
 V&=\pi h(r^2+r'^2+rr') 
 \end{align}$$
 
 
 ## Sfera
 $$\begin{align}
-\mathcal{A}&=4\pi r^2 \\
+A&=4\pi r^2 \\
 V&=\frac{4}{3}\pi r^3
 \end{align}$$
