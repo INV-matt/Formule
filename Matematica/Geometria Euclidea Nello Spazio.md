@@ -8,7 +8,7 @@
 ## Prisma retto
 
 $$\begin{align}
-{A}_{l}&=2ph \\
+{A}_{l}&=2ph\ \\
 V&={A}_{b}h 
 \end{align}$$
 
