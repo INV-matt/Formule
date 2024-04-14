@@ -13,21 +13,21 @@ V=\mathcal{A}_{b}h
 
 ## Piramide retta
 $$\begin{align}
-\mathcal{A}_{l}&=pa \\
+\mathcal{A}_{l}&=pa \\ \\
 V&=\frac{1}{3}\mathcal{A}_{b}h
 \end{align}$$
 
 ## Tronco di piramide retta
 $$\begin{align}
-\mathcal{A}_{l}&=(p+p') a \\
+\mathcal{A}_{l}&=(p+p') a \\ \\
 V&=\frac{1}{3}h(\mathcal{A}+\mathcal{A}'+\sqrt{ \mathcal{A}\mathcal{A}' })
 \end{align}$$
 
 ## Cilindro
 
 $$\begin{align}
-\mathcal{A}_{l}&=2\pi rh \\
-\mathcal{A}_{t}&=2\pi r(r+h) \\
+\mathcal{A}_{l}&=2\pi rh \\ \\
+\mathcal{A}_{t}&=2\pi r(r+h) \\ \\
 V&=\pi r^2h
 \end{align}$$
 
@@ -44,7 +44,7 @@ V&=\frac{1}{3}\pi r^2h
 ## Tronco di cono
 
 $$\begin{align}
-\mathcal{A}_{l}&=\pi a(r+r') \\
+\mathcal{A}_{l}&=\pi a(r+r') \\ 
 V&=\pi h(r^2+r'^2+rr') 
 \end{align}$$
 
