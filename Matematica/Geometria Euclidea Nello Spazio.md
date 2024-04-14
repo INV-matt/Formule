@@ -7,12 +7,10 @@
 # Aree e Volumi
 ## Prisma retto
 
-$$
-\begin{align}  
-{A}_{l}&=2ph  
+$$\begin{align}  
+A_{l}&=2ph  
 V&={A}_{b}h   
-\end{align}
-$$
+\end{align} $$
 
 
 ## Piramide retta
