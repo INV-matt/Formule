@@ -24,24 +24,30 @@ V&=\frac{1}{3}h(\mathcal{A}+\mathcal{A}'+\sqrt{ \mathcal{A}\mathcal{A}' })
 \end{align}$$
 
 ## Cilindro
+
 $$\begin{align}
 \mathcal{A}_{l}&=2\pi rh \\
 \mathcal{A}_{t}&=2\pi r(r+h) \\
 V&=\pi r^2h
 \end{align}$$
 
+
 ## Cono
+
 $$\begin{align}
 \mathcal{A}_{l}&=\pi ra \\
 \mathcal{A}_{t}&=\pi r(r+a)  \\
 V&=\frac{1}{3}\pi r^2h
 \end{align}$$
 
+
 ## Tronco di cono
+
 $$\begin{align}
 \mathcal{A}_{l}&=\pi a(r+r') \\
 V&=\pi h(r^2+r'^2+rr') 
 \end{align}$$
+
 
 ## Sfera
 $$\begin{align}
