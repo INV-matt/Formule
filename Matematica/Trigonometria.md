@@ -35,3 +35,11 @@ $$
 $$
 
 Dove $r$ è il raggio della circonferenza circoscritta.
+
+# Teorema dei coseni
+In un triangolo qualunque, vale:
+
+$$
+c^2=a^2+b^2-2ab\cos \gamma
+$$
+
