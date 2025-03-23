@@ -55,17 +55,14 @@ $$
 Presi un punto $P_{0}(x_{0},y_{0},z_{0})$ e un vettore direzione $\vec{v}(l,m,n)$, un generico punto $P(x,y,z) \in r \iff \overrightarrow{P_{0}P} \parallel \vec{v}$ : 
 
 
-$$
-\begin{align}
+$$\begin{align}
 &\begin{cases}
 x-x_{0}=kl \\
 y-y_{0}=km \\
 z-z_{0}=kn
 \end{cases} \\ \\
 \frac{x-x_{0}}{l} &= \frac{y-y_{0}}{m} =\frac{z-z_{0}}{n} =k
-
-\end{align}
-$$
+\end{align}$$
 
 In particolare:
 - $l=0 \iff r\parallel Oyz$
