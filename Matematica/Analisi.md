@@ -101,24 +101,24 @@ Se $f$ è invertibile, vale $(f^{-1})'y=\frac{1}{f'(x)}$
 ## Derivabilità
 Sia $f: D \to \mathbb R$ e $x_{0} \in D$. Definiamo derivata destra di $f$ in $x_{0}$:
 
-$$f'_{+}(x_{0})=\lim_{ h \to 0^+ }  \frac{f(x_{0}+h)-f(x_{0})}{h} $$
+$$f_{+}'(x_{0})=\lim_{ h \to 0^+ }  \frac{f(x_{0}+h)-f(x_{0})}{h} $$
 Analogamente si definisce la derivata sinistra.
 
-Se esiste $f'(x_{0})=l$, allora esistono $f'_{+}(x_{0})=f'_{-}(x_{0})=l$, e viceversa.
+Se esiste $f'(x_{0})=l$, allora esistono $f_{+}'(x_{0})=f_{-}'(x_{0})=l$, e viceversa.
 
 ### Teorema del limite della derivata
 Sia $f: (a, b) \to \mathbb R$ e $x_{0} \in (a, b)$.
-$$\exists \lim_{ x \to x_{0}^+} f'(x) = l \implies \exists f'_{+}(x_{0})=l$$
+$$\exists \lim_{ x \to x_{0}^+} f'(x) = l \implies \exists f_{+}'(x_{0})=l$$
 Analogamente vale per la derivata sinistra.
 
 ## Punti di non derivabilità
 - punti di discontinuità
 - punti di continuità
-	- $f_{-}'(x_{0})\neq f_{+}'(x_{0})$ e almeno uno finito: pt angoloso
+	- pt angoloso: $f_{-}'(x_{0})\neq f_{+}'(x_{0})$ e almeno uno finito
 	- pt. di flesso a tg vert.: $f_{-}'(x_{0}) = f_{+}'(x_{0}) = \pm \infty$ 
-	- pt. di cuspide: $f'_{-}(x_{0}) = -f'_{+}(x_{0}) = \pm \infty$ 
-	- pt. generico di non derivabilità: $f'_{-}(x_{0}) \lor f'_{+}(x_{0})$ non esiste 
-	- pt. di tg verticale al bordo: $f'_{\pm}(x_{0})= \pm \infty$ al bordo
+	- pt. di cuspide: $f_{-}'(x_{0}) = -f'{+}'(x_{0}) = \pm \infty$ 
+	- pt. generico di non derivabilità: $f_{-}'(x_{0}) \lor f_{+}'(x_{0})$ non esiste 
+	- pt. di tg verticale al bordo: $f_{\pm}'(x_{0})= \pm \infty$ al bordo
 
 ## Differenziale
 Sia $f$ derivabile in $x_{0}$ e $dx$ un incremento di $x$
