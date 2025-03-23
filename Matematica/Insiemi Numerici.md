@@ -22,7 +22,7 @@ L'estremo inferiore e superiore di $\emptyset$ sono rispettivamente $+\infty$ e 
 $$A \subset \mathbb R \implies \exists\ \text{Sup}\ A,\ \text{Inf}\ A$$
 
 ## Intervalli
-Dati $a, b \in \mathbb R$, si dice aperto l'intervallo $(a, b)$ e chiuso l'intervallo $[a, b].
+Dati $a, b \in \mathbb R$, si dice aperto l'intervallo $(a, b)$ e chiuso l'intervallo $[a, b]$.
 Dato $A = (a, b)$, l'ampiezza di $A$ è $b-a$ e il raggio $(b-a)/2$.
 
 ## Intorni
