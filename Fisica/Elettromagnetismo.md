@@ -166,16 +166,20 @@ Seconda legge: In una maglia, la somma delle differenze di potenziale è 0
 $$\vec{F}=q\vec{v}\times \vec{B}$$
 
 Una particella in un campo magnetico perpendicolare si muove di moto circolare:
+
 $$\begin{align}
 r &= \frac{mv}{qB} \\
 T &= \frac{2\pi m}{qB} \\
 \omega &= \frac{qB}{m}
 \end{align}$$
 
+
 Forza magnetica su filo percorso da corrente:
+
 $$F = ilB\sin\varphi$$
 
 Momento torcente su una spira:
+
 $$\begin{align}
 \tau&=BiA\sin\varphi \\
 \mu&=iA
@@ -186,20 +190,26 @@ $$\begin{align}
 Costante di permeabilità del vuoto: $\mu_{0}=4\pi*10^{-7} \frac{Tm}{A}$
 
 Filo infinito percorso da corrente (Legge di Biot-Savart): 
+
 $$B=\frac{\mu_{0}}{2\pi} \frac{i}{r}$$
 
 Spira percorsa da corrente:
+
 $$B = \frac{\mu_{0}N}{2} \frac{i}{r}$$
 
 Solenoide: 
+
 $$B=\mu_{0} \frac{N}{L} i$$
 
 ## Flusso e circuitazione/integrale di linea
 Il flusso di un campo magnetico attraverso una superficie gaussiana è nullo (Teorema di Gauss).
+
 $$\Phi_{S}(\vec{B})=0$$
 
 La circuitazione di un campo magnetico attraverso un circuito chiuso (Teorema di Ampere) vale:
+
 $$\Gamma_{\gamma}(\vec{B})=\mu_{0} \sum i_{k}$$
+
 dove $i_k$ sono le correnti concatenate a $\gamma$
 
 
@@ -209,18 +219,21 @@ In un campo elettrico, vale $\mathcal{E}=\Gamma_{\gamma}(\vec{E})$
 Un campo elettrico indotto non è conservativo: $\Gamma_{\gamma}(\vec{E}) \neq 0$
 
 ## Legge di Faraday-Neumann-Lenz
+
 $$\begin{align}
 \mathcal{E}&=- \frac{\Phi(B)}{\Delta t} \\  \\
 \mathcal{E}&=- \frac{d\Phi(B)}{dt}
 \end{align}$$
 
 ## Mutua induzione
+
 $$\begin{align}
 \Phi_{2}(B)=Mi_{1} \\
 \mathcal E_{2} = -M \frac{\Delta i_{1}}{\Delta t_{2}}
 \end{align}$$
 
 ## Autoinduzione
+
 $$\begin{align}
 \Phi(B) = Li \\
 \mathcal E = -L \frac{\Delta i}{\Delta t}
@@ -232,18 +245,23 @@ In un solenoide, $L=\mu_{0} \frac{N^2A}{l}$
 Costante di tempo induttiva: $\tau=\frac{L}{R}$
 
 Corrente di chiusura: 
+
 $$i(t)=\frac{V}{R}(1-e^{-t/\tau})$$
 
 Corrente di apertura: 
+
 $$i(t)= \frac{V}{R} e^{-t/\tau}$$
 Energia immagazinata:
+
 $$W_{L}=\frac{1}{2}Li^2$$
 
 ## Circuiti RC
 Costante di tempo capacitiva: $\tau=RC$
 
 Corrente di carica:
+
 $$i(t)=\frac{V}{R} e^{-t/\tau}$$
 
 Corrente di scarica:
+
 $$i(t)=-\frac{V}{R}e^{-t/\tau}$$
