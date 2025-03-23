@@ -85,7 +85,9 @@ La circuitazione lungo un cammino chiuso è nulla.
 
 ## Condensatori
 Campo interno: $E = \frac{\sigma}{\varepsilon_{0}}$
+
 Capacità: $q = C \Delta V$, dove $C = \frac{A\varepsilon_{0}}{d}$
+
 Energia del condensatore: $W=\frac{1}{2} q\Delta V$
 
 ### Condensatore equivalente
@@ -121,6 +123,7 @@ L'intensità di corrente è $i = \frac{\Delta q}{\Delta t}$. Nei circuiti DC, $i
 In un circuito, un generatore ha forza elettromotrice $\mathcal{E}=\frac{W}{q}=V$
 
 Prima legge di Ohm:    $V=iR$
+
 Seconda legge di Ohm: $R = \rho\frac{l}{A}$
 
 Potenza assorbita da un circuito: $W=i\Delta V$
