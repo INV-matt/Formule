@@ -3,7 +3,7 @@
 
 $$\lim_{ x \to a } f(x) = l \in R$$
 
-	se 
+se 
 
 $$\forall\varepsilon>0\ \exists I(a)\ |\ |f(x)-l| < \varepsilon\ \forall x \in I(a)$$
 
@@ -12,7 +12,7 @@ $$\forall\varepsilon>0\ \exists I(a)\ |\ |f(x)-l| < \varepsilon\ \forall x \in I
 
 $$\lim_{ x \to a } f(x) = +\infty$$
 
-	se 
+se 
 
 $$\forall M>0\ \exists I(a)\ |\ f(x) > M\ \forall x \in I(a)$$
 
@@ -22,7 +22,7 @@ $$\forall M>0\ \exists I(a)\ |\ f(x) > M\ \forall x \in I(a)$$
 
 $$\lim_{ x \to +\infty } f(x) = +l \in R$$
 
-	se 
+se 
 
 $$\forall\varepsilon>0\ \exists I(+\infty)\ |\ |f(x)-l| < \varepsilon\ \forall x \in I(+\infty)$$
 
