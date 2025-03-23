@@ -56,6 +56,33 @@ Siano $f(x), g(x), h(x): D \to \mathbb R\ |\ g(x) \le f(x) \le h(x)\ \forall x \
 Allora esiste $\lim_{ x \to a } f(x) = l$
 
 
+## Funzioni continue
+Una funzione $f: D \to \mathbb R$ è detta **continua** in $a$ pt. di accumulazione per $D$, se 
+
+$$\lim_{ x \to a }f(x) = f(a) $$
+
+Un funzione è continua se
+
+$$\lim_{ x \to a } f(x) = f(a)\ \forall a \in D $$
+
+### Punti di discontinuità
+Siano $L_{+}=\lim_{ x \to a^+ }f(x)$ e $L_{-}=\lim_{ x \to a^- }f(x)$.
+- $L_{+}\neq L_{-} \in \mathbb R$: discontinuità di 1° specie o tipo salto
+- $L_{+}\lor L_{-} = \infty$: discontinuità di tipo salto
+- $\nexists\ L_{+}\lor \nexists L_{-}$: discontinuità di 2° specie
+- $L_{+}= L_{-} \neq f(a)$: discontinuità di 3° specie o eliminabile
+
+### Teorema della permanenza del segno
+Sia $f: D\to \mathbb R$. Se $f$ è continua in $a \in D$, allora 
+$\exists I(a)\ |\ sgn(f(x))=sgn(f(a))\ \forall x \in I(a)$ se $f(a)\neq 0$
+
+### Teorema di Weierstrass
+Se $f: [a,b] \to \mathbb R$ è continua, allora ha massimo e minimo assoluti su $[a, b]$
+
+### Teorema degli zeri
+Se $f:(p, q)\to \mathbb R$ è continua e tale che $f(a)*f(b)<0$ con $a, b \in (p, q)$, allora $\exists c \in (a,b) | f(c) =0$
+
+
 # Derivate
 
 # Integrali
