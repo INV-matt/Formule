@@ -3,35 +3,47 @@
 La carica di un elettrone è $e = 1.6*10^{-19} C$. Ogni carica è un multiplo di $e$
 
 ## Forza di Coulomb
+
 $$F=k \frac{q_{1}q_{2}}{r^2}$$
 
 dove $k=8,99*10^9 \frac{Nm^2}{C^2}=\frac{1}{4 \pi \varepsilon_{0}}$ e $\varepsilon_{0} = 8,85 * 10^{-12} \frac{C^2}{Nm^2}$ 
 
 ## Flusso
+
 $$\Phi(\vec{E})=\vec{E} \cdot \vec{A}=EA\cos \varphi$$
+
+
 ### Teorema di Gauss
+
 Il flusso attraverso una superficie gaussiana è:
+
 $$\Phi(\vec{E})=\frac{Q}{\varepsilon_{0}}$$
 
 ## Campo elettrostatico
 In generale: $\vec{E}=\frac{\vec{F}}{q_{0}}$
 Campo generato da una particella
 
+
 $$E=\frac{1}{4\pi \varepsilon_{0}}\frac{Q}{r^2}$$
 
 Campo in un condensatore
+
 $$E = \frac{Q}{\varepsilon_{0}A}=\frac{\sigma}{\varepsilon_{0}}$$
 
 Campo generato da una distribuzione piana infinita uniforme
+
 $$E= \frac{\sigma}{2\varepsilon_{0}}$$
 
 Campo generato da un file elettrico infinito uniforme
+
 $$E = \frac{\lambda}{2\pi\varepsilon_{0}} \frac{1}{r}$$
 
 Campo all'interno di una sfera piena uniforme di raggio $R$
+
 $$E=\frac{q}{4\pi\varepsilon_{0}R^3} r$$
 
 Campo all'esterno di un conduttore (Teorema di Coulomb)
+
 $$E = \frac{\sigma}{\varepsilon_{0}}$$
 
 ## Energia potenziale e potenziale
@@ -53,9 +65,11 @@ V &= \frac{U}{q} \\
 
 
 Potenziale in un campo radiale
+
 $$V=\frac{1}{4\pi\varepsilon_{0}} \frac{Q}{r}$$
 
 Potenziale in un condensatore
+
 $$V=-\frac{E}{d}$$
 
 ## Circuitazione
