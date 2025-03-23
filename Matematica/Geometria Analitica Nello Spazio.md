@@ -80,14 +80,12 @@ r : \frac{x-x_{A}}{x_{B}-x_{A}} = \frac{y-y_{A}}{y_{B}-y_{A}}= \frac{z-z_{A}}{z_
 $$
 
 # Piano
-Dati un punto $P(x_{0},y_{0},z_{0})$ e la normale $\vec{n}(a,b,c)$, il piano $\alpha$ è il luogo dei punti $P(x,y,z) | \overrightarrow{PP_{0}} \perp \vec{n}$ : 
+Dati un punto $P(x_{0},y_{0},z_{0})$ e la normale $\bar{n}(a,b,c)$, il piano $\alpha$ è il luogo dei punti $P(x,y,z) | \overrightarrow{PP_{0}} \perp \bar{n}$ : 
 
-$$
-\begin{align}
+$$\begin{align}
 \alpha: ax+by+cz+d=0 \\
 d = -(ax_{0}+by_{0}+cz_{0})
-\end{align}
-$$
+\end{align}$$
 
 
 Due piani sono paralleli se le loro normali sono parallele, perpendicolari se le loro normali sono perpendicolari
