@@ -36,17 +36,21 @@ $$E = \frac{\sigma}{\varepsilon_{0}}$$
 
 ## Energia potenziale e potenziale
 Energia potenziale tra due cariche
+
 $$U=\frac{1}{4\pi\varepsilon_{0}} \frac{q_{1}q_{2}}{r}$$
 
 Energia potenziale in un condensatore
+
 $$U=\mp qEd$$
 
 
 Potenziale Elettrico
+
 $$\begin{align}
 V &= \frac{U}{q} \\
 \Delta V&=\frac{\Delta U}{q}=-\frac{W}{q}
 \end{align}$$
+
 
 Potenziale in un campo radiale
 $$V=\frac{1}{4\pi\varepsilon_{0}} \frac{Q}{r}$$
