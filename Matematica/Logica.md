@@ -90,5 +90,5 @@ $p\land q$ è vera, ma $p \vdash q$.
 
 $p\land q$ è vera, ma $q \vdash p$.
 
-# Introduzione della congiunzione
+## Introduzione della congiunzione
 $p$ è vera, $q$ è vera $\vdash p \land q$ è vera.
