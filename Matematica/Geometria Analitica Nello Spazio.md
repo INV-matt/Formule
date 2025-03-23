@@ -52,7 +52,9 @@ $$
 $$
 
 # Retta
-Presi un punto $P_{0}(x_{0},y_{0},z_{0})$ e un vettore direzione $\vec{v}(l,m,n)$, un generico punto $P(x,y,z) \in r \iff \overrightarrow{P_{0}P} \parallel \vec{v}$ 
+Presi un punto $P_{0}(x_{0},y_{0},z_{0})$ e un vettore direzione $\vec{v}(l,m,n)$, un generico punto $P(x,y,z) \in r \iff \overrightarrow{P_{0}P} \parallel \vec{v}$ : 
+
+
 $$
 \begin{align}
 &\begin{cases}
@@ -64,6 +66,8 @@ z-z_{0}=kn
 
 \end{align}
 $$
+
+In particolare:
 - $l=0 \iff r\parallel Oyz$
 - $m=0 \iff r\parallel Oxz$
 - $n=0 \iff r\parallel Oxy$
@@ -79,7 +83,7 @@ r : \frac{x-x_{A}}{x_{B}-x_{A}} = \frac{y-y_{A}}{y_{B}-y_{A}}= \frac{z-z_{A}}{z_
 $$
 
 # Piano
-Dati un punto $P(x_{0},y_{0},z_{0})$ e la normale $\vec{n}(a,b,c)$, il piano $\alpha$ è il luogo dei punti $P(x,y,z) | \overrightarrow{PP_{0}} \perp \vec{n}$
+Dati un punto $P(x_{0},y_{0},z_{0})$ e la normale $\vec{n}(a,b,c)$, il piano $\alpha$ è il luogo dei punti $P(x,y,z) | \overrightarrow{PP_{0}} \perp \vec{n}$ : 
 
 $$
 \begin{align}
@@ -88,16 +92,20 @@ d = -(ax_{0}+by_{0}+cz_{0})
 \end{align}
 $$
 
+
 Due piani sono paralleli se le loro normali sono parallele, perpendicolari se le loro normali sono perpendicolari
 
 ## Distanza punto piano
 Dati $\alpha:ax+by+cz+d=0$ e $A(x_{A},y_{A},z_{A})$,
+
 $$
 d(A, \alpha) = \frac{|ax_{A}+by_{A}+cz_{A}+d|}{\sqrt{ a^2+b^2+c^2 }}
 $$
 
+
 ## Retta da due piani
 Una retta è individuata dall'intersezione di due piani
+
 $$
 r\begin{cases}
 ax+by+cz+d=0 \\
@@ -116,9 +124,11 @@ Due rette sono:
 
 
 # Sfera
-Una superficie sferica $\omega$ di centro $C(x_{0},y_{0},z_{0})$ e raggio $r$ ha equazione:
+Una superficie sferica $\omega$ di centro $C(x_{0},y_{0},z_{0})$ e raggio $r$ ha equazione: 
+
 $$
 (x-x_{0})^2+(y-y_{0})^2+(z-z_{0})^2=r^2
 $$
+
 
 L'equazione $x^2+y^2+z^2+ax+by+cz+d=0$ rappresenta una superficie sferica di centro $C\left( -\frac{a}{2},-\frac{b}{2},-\frac{c}{2} \right)$ e raggio $r=\frac{1}{2}\sqrt{a^2+b^2+c^2-4d}$
