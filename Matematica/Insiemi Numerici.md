@@ -27,7 +27,6 @@ Dati $a, b \in \mathbb R$
 $$\begin{align}
 & (a, b) = \{x \in \mathbb R\ |\ a<x<b\} \\
 & [a, b] = \{x \in \mathbb R\ |\ a \le x \le b\} \\
-& ( -\infty, +\infty ) = \mathbb R
 \end{align}$$
 
 
