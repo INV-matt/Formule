@@ -56,3 +56,33 @@ $$\begin{align}
 A&=4\pi r^2 \\
 V&=\frac{4}{3}\pi r^3
 \end{align}$$
+
+### Calotta - Segmento a 1 base
+$$\begin{align}
+A &= 2\pi Rh \\
+V &= \frac{\pi}{3}h^2(3R-h) \\
+&\text{con R raggio massimo} \\
+\end{align}$$
+
+### Zona - Segmento a 2 basi
+$$\begin{align}
+A &= 2\pi Rh \\
+V &= \frac{4}{3}\pi \left( \frac{h}{2} \right)^3+\pi r_{1}^2\frac{h}{2}+\pi r_{2}^2\frac{h}{2}\\
+\end{align}$$
+
+### Fuso - Spicchio
+$$\begin{align}
+A &= 2\alpha R^2 \\
+V &= \frac{2}{3}\alpha R^3
+\end{align}$$
+
+### Anello Sferico
+$$
+V = \frac{1}{6}\pi a^2h
+$$
+
+
+### Settore Sferico
+$$
+V = \frac{2}{3}\pi hR^2
+$$
