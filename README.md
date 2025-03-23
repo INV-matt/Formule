@@ -7,6 +7,7 @@
 	- [Geometria Analitica nello Spazio](Matematica/Geometria%20Analitica%20Nello%20Spazio.md)
 	- [Geometria Euclidea nello Spazio](Matematica/Geometria%20Euclidea%20Nello%20Spazio.md)
 	- [Goniometria](Matematica/Goniometria.md)
+	- [Insiemi Numerici](Matematica/Insiemi%20Numerici.md)
 	- [Logica](Matematica/Logica.md)
 	- [Statistica, Probabilità e Combinatoria](Statistica,%20Probabilità%20e%20Combinatoria.md)
 	- [Trigonometria](Matematica/Trigonometria.md)
