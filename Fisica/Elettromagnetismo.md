@@ -215,8 +215,13 @@ dove $i_k$ sono le correnti concatenate a $\gamma$
 
 # Induzione elettromagnetica
 Si nota che la variazione del flusso di B genera una corrente elettrica indotta.
-In un campo elettrico, vale $\mathcal{E}=\Gamma_{\gamma}(\vec{E})$
-Un campo elettrico indotto non è conservativo: $\Gamma_{\gamma}(\vec{E}) \neq 0$
+In un campo elettrico, vale 
+
+$$\mathcal{E}=\Gamma_{\gamma}(\vec{E})$$
+
+Un campo elettrico indotto non è conservativo: 
+
+$$\Gamma_{\gamma}(\vec{E}) \neq 0$$
 
 ## Legge di Faraday-Neumann-Lenz
 
