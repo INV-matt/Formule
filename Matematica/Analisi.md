@@ -114,7 +114,7 @@ Analogamente vale per la derivata sinistra.
 ## Punti di non derivabilità
 - punti di discontinuità
 - punti di continuità
-	- pt. angoloso: $f'_{-}(x_{0})\neq f'_{+}(x_{0})$ e almeno uno finito
+	- $f'_{-}(x_{0})\neq f'_{+}(x_{0})$ e almeno uno finito: pt angoloso
 	- pt. di flesso a tg vert.: $f'_{-}(x_{0}) = f'_{+}(x_{0}) = \pm \infty$ 
 	- pt. di cuspide: $f'_{-}(x_{0}) = -f'_{+}(x_{0}) = \pm \infty$ 
 	- pt. generico di non derivabilità: $f'_{-}(x_{0}) \lor f'_{+}(x_{0})$ non esiste 
@@ -131,19 +131,22 @@ Se $f$ è derivabile in $x_{0}$ e $f'(x_{0})=0$, allora $x_{0}$ è **punto stazi
 Se $f(a,  b) \to \mathbb R$ è
 1. derivabile su $(a,b)$
 2. $x_{0} \in (a,b)$ è pt. di max/min relativo
+
 allora $x_{0}$ è pt stazionario, ovvero $f'(x_{0}) = 0$
 
 ### Teorema di Rolle
 Sia $f: [a, b] \to \mathbb R$ tale che:
 1. $f$ continua su $[a, b]$
-2. $f$ derviabile su $(a, b)$
+2. $f$ derivabile su $(a, b)$
 3. $f(a) = f(b)$
+
 allora $\exists c \in (a, b)\ |\ f'(c)=0$
 
 ### Teorema di Lagrange
 Sia $f: [a, b] \to \mathbb R$ tale che:
 1. $f$ continua su $[a, b]$
-2. $f$ derviabile su $(a, b)$
+2. $f$ derivabile su $(a, b)$
+
 allora $\exists c \in (a, b)\ |\ f'(c)= \frac{f(b)-f(a)}{b-a}$
 
 ### Teorema di Cauchy
@@ -151,6 +154,7 @@ Siano $f, g: [a, b] \to \mathbb R$ tali che:
 1. $f, g$ continue su $[a, b]$
 2. $f,g$ derviabili su $(a, b)$
 3. $g(x)\neq0\ \forall x \in (a, b)$
+
 allora $\exists c \in (a, b)\ |\ \frac{f'(c)}{g'(c)}= \frac{f(b)-f(a)}{g(b)-g(a)}$
 
 ### Teorema di Cauchy
@@ -159,6 +163,7 @@ Siano $f, g: (a, b) \to \mathbb R$ tali che:
 2. $g(x)\neq0\ \forall x \in (a, b)$
 3. $\lim_{ x \to x_{0} } \frac{f(x)}{g(x)}=\frac{0}{0}$
 4. $\exists \lim_{ x \to x_{0} } \frac{f'(x)}{g'(x)}=l$
+
 allora $\exists \lim_{ x \to x_{0} } \frac{f(x)}{g(x)=l}$
 
 ### Teorema della funzione costante
@@ -177,13 +182,17 @@ Sia $f: (a,b) \to \mathbb R$ tale che
 1. $f$ continua
 2. $f$ crescente su $(a, x_{0})$
 3. $f$ decrescente su $(x_{0}, b)$
+
 Allora $x_{0}$ è punto di massimo relativo.
 
 ## Concavità e punti di flesso
 Una funzione è localmente **convessa** se $\exists I(x_{0})\ |\ f(x) > f(x_{0}) + f'(x_{0})(x-x_{0})\ \forall x\in I(x_{0}) - \{x_{0}\}$
+
 Analogamente, è **concava** se vale l'inverso.
 
-$x_{0}$ è **punto di flesso ascendente** se $f$ passa da concava a convessa. Viceversa, $x_0$ è **punto di flesso discendente**.
+$x_{0}$ è **punto di flesso ascendente** se $f$ passa da concava a convessa. 
+
+Viceversa, $x_0$ è **punto di flesso discendente**.
 
 Se $f$ è derivabile in $x_0$ punto di flesso, allora si distingue il punto di flesso tra:
 - punto di flesso a tangenza obliqua
@@ -194,17 +203,20 @@ Se $f$ è derivabile in $x_0$ punto di flesso, allora si distingue il punto di f
 Sia $f: (a, b) \to \mathbb R$ tale che
 1. $f$ derivabile due volte
 2. $f''(x)>0\ \forall x\in (a, b)$
+
 Allora $f$ è convessa.
 
 Sia $f: (a, b) \to \mathbb R$ tale che
 1. $f$ derivabile due volte
 2. $f$ convessa
+
 Allora $f''(x)\ge0\ \forall x\in (a, b)$.
 
 ### Teorema dei punti di flesso
 Sia $f: (a, b) \to \mathbb R$ tale che
 1. $f$ derivabile due volte
 2. $x_0\in(a,b)$
+
 Allora $f''(x_{0})=0$.
 
 
