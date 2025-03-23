@@ -90,6 +90,7 @@ Energia del condensatore: $W=\frac{1}{2} q\Delta V$
 
 ### Condensatore equivalente
 Se i condensatori sono in parallelo:
+
 $$\begin{align}
 &\begin{cases}
 \Delta V=\Delta V_{1}=\Delta V_{2} =\dots=\Delta V_{n} \\
@@ -98,14 +99,17 @@ q= q_{1}+q_{2}+\dots+q_{n}
 &C = \sum C_{i}
 \end{align}$$
 
+
 Se i condensatori sono in serie:
+
 $$\begin{align}
 &\begin{cases}
 \Delta V=\Delta V_{1}+\Delta V_{2}+\dots+\Delta V_{n} \\
 q=q_{1}=q_{2}=\dots=q_{n}
 \end{cases} \\  \\
-\frac{1}{C}=\sum \frac{1}{C_{i}}
+&\frac{1}{C}=\sum \frac{1}{C_{i}}
 \end{align}$$
+
 
 
 L'energia del condensatore equivalente è la somma delle energie.
@@ -123,6 +127,7 @@ Potenza assorbita da un circuito: $W=i\Delta V$
 
 ### Resistore equivalente
 Se i condensatori sono in parallelo:
+
 $$\begin{align}
 &\begin{cases}
 \Delta V=\Delta V_{1}=\Delta V_{2} =\dots=\Delta V_{n} \\
@@ -131,7 +136,9 @@ i= i_{1}+i_{2}+\dots+i_{n}
 & \frac{1}{R} = \frac{1}{\sum R_{i}}
 \end{align}$$
 
+
 Se i condensatori sono in serie:
+
 $$\begin{align}
 &\begin{cases}
 \Delta V=\Delta V_{1}+\Delta V_{2}+\dots+\Delta V_{n} \\
@@ -139,6 +146,7 @@ i=i_{1}=i_{2}=\dots=i_{n}
 \end{cases} \\  \\
 &R=\sum R{i}
 \end{align}$$
+
 
 La potenza assorbita dal resistore equivalente è la somma delle potenze.
 
@@ -151,6 +159,7 @@ Seconda legge: In una maglia, la somma delle differenze di potenziale è 0
 
 # Campo Magnetico
 ## Forza di Lorentz Danetz
+
 $$\vec{F}=q\vec{v}\times \vec{B}$$
 
 Una particella in un campo magnetico perpendicolare si muove di moto circolare:
