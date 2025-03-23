@@ -52,6 +52,7 @@ $$f(x) > 0\ \forall x \in I(a)\ \land \lim_{ x \to a }f(x) = l \implies l \ge 0 
 
 ## Teorema del confronto (dei carabinieri)
 Siano $f(x), g(x), h(x): D \to \mathbb R\ |\ g(x) \le f(x) \le h(x)\ \forall x \in I(a)$ e che $\lim_{ x \to a }g(x) = \lim_{ x \to a }h(x) = l$.
+
 Allora esiste $\lim_{ x \to a } f(x) = l$
 
 
