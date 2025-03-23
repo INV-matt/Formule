@@ -25,8 +25,9 @@ $$A \subset \mathbb R \implies \exists\ \text{Sup}\ A,\ \text{Inf}\ A$$
 Dati $a, b \in \mathbb R$
 
 $$\begin{align}
-& (a, b) = {x \in \mathbb R\ |\ a<x<b} \\
-& [a, b] = {x \in \mathbb R\ |\ a \le x \le b} \\
+& (a, b) = \{x \in \mathbb R\ |\ a<x<b\} \\
+& [a, b] = \{x \in \mathbb R\ |\ a \le x \le b\} \\
+& ( -\infty, +\infty ) = \mathbb R
 \end{align}$$
 
 
