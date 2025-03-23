@@ -6,7 +6,9 @@ La carica di un elettrone è $e = 1.6*10^{-19} C$. Ogni carica è un multiplo di
 
 $$F=k \frac{q_{1}q_{2}}{r^2}$$
 
-dove $k=8,99*10^9 \frac{Nm^2}{C^2}=\frac{1}{4 \pi \varepsilon_{0}}$ e $\varepsilon_{0} = 8,85 * 10^{-12} \frac{C^2}{Nm^2}$ 
+dove 
+
+$$k=8,99*10^9 \frac{Nm^2}{C^2}=\frac{1}{4 \pi \varepsilon_{0}}$ e $\varepsilon_{0} = 8,85 * 10^{-12} \frac{C^2}{Nm^2}$$
 
 ## Flusso
 
