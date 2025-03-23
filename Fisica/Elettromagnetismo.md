@@ -21,6 +21,7 @@ $$\Phi(\vec{E})=\frac{Q}{\varepsilon_{0}}$$
 
 ## Campo elettrostatico
 In generale: $\bar{E}=\frac{\vec{F}}{q_{0}}$
+
 Campo generato da una particella
 
 
