@@ -52,7 +52,7 @@ $$
 $$
 
 # Retta
-Presi un punto $P_{0}$ e un vettore direzione $(l,m,n)$, un generico punto $P \in r \iff \overrightarrow{P_{0}P} \parallel \vec{v}$ : 
+Presi un punto $P_{0}$ e un vettore direzione $\bar{v}(l,m,n)$, un generico punto $P \in r \iff \overrightarrow{P_{0}P} \parallel \bar v$ : 
 
 
 $$\begin{align}
