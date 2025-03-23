@@ -114,7 +114,7 @@ Analogamente vale per la derivata sinistra.
 ## Punti di non derivabilità
 - punti di discontinuità
 - punti di continuità
-	- $f_{-}(x_{0})\neq f_{+}(x_{0})$ e almeno uno finito: pt angoloso
+	- $f_{-}'(x_{0})\neq f_{+}'(x_{0})$ e almeno uno finito: pt angoloso
 	- pt. di flesso a tg vert.: $f'_{-}(x_{0}) = f'_{+}(x_{0}) = \pm \infty$ 
 	- pt. di cuspide: $f'_{-}(x_{0}) = -f'_{+}(x_{0}) = \pm \infty$ 
 	- pt. generico di non derivabilità: $f'_{-}(x_{0}) \lor f'_{+}(x_{0})$ non esiste 
