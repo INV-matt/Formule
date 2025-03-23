@@ -2,6 +2,7 @@
 # Indice
 - Matematica
 	- [Algebra](Matematica/Algebra.md)
+	- [Analisi](Matematica/Analisi.md)
 	- [Funzioni](Matematica/Funzioni.md)
 	- [Geometria Analitica](Matematica/Geometria%20Analitica.md)
 	- [Geometria Analitica nello Spazio](Matematica/Geometria%20Analitica%20Nello%20Spazio.md)
