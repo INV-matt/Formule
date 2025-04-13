@@ -126,7 +126,7 @@ $$
 \begin{align}
 a\sin x+b\cos x&=r\sin (x+\alpha) \\
 \text{con: } \\
-r = \sqrt{ a^2+b^2 },&\ \tan\alpha=\frac{a}{b}
+r = \sqrt{ a^2+b^2 },&\ \tan\alpha=\frac{b}{a}
 \end{align}
 $$
 
