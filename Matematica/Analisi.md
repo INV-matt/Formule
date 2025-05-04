@@ -96,7 +96,7 @@ $$f'(x_{0}) = \lim_{ h \to 0 }\frac{f(x+h)-f(x)}{h} $$
 
 La funzione $f'$ che associa $x \to f'(x)\ \forall x \in D$ è chiamata **funzione derivata**
 
-Se $f$ è invertibile, vale $(f^{-1})'y=\frac{1}{f'(x)}$
+Se $f$ è invertibile, vale $(f^{-1})'(y)=\frac{1}{f'(x)}$
 
 ## Derivabilità
 Sia $f: D \to \mathbb R$ e $x_{0} \in D$. Definiamo derivata destra di $f$ in $x_{0}$:
@@ -152,14 +152,14 @@ allora $\exists c \in (a, b)\ |\ f'(c)= \frac{f(b)-f(a)}{b-a}$
 ### Teorema di Cauchy
 Siano $f, g: [a, b] \to \mathbb R$ tali che:
 1. $f, g$ continue su $[a, b]$
-2. $f,g$ derviabili su $(a, b)$
+2. $f,g$ derivabili su $(a, b)$
 3. $g(x)\neq0\ \forall x \in (a, b)$
 
 allora $\exists c \in (a, b)\ |\ \frac{f'(c)}{g'(c)}= \frac{f(b)-f(a)}{g(b)-g(a)}$
 
 ### Teorema di Cauchy
 Siano $f, g: (a, b) \to \mathbb R$ tali che:
-1. $f,g$ derviabili su $(a, b)$
+1. $f,g$ derivabili su $(a, b)$
 2. $g(x)\neq0\ \forall x \in (a, b)$
 3. $\lim_{ x \to x_{0} } \frac{f(x)}{g(x)}=\frac{0}{0}$
 4. $\exists \lim_{ x \to x_{0} } \frac{f'(x)}{g'(x)}=l$
@@ -223,5 +223,27 @@ Allora $f''(x_{0})=0$.
 
 
 # Integrali
+## Integrale indefinito
+Sia $F(x)$ derivabile tale che $F'(x)=f(x)$: diciamo $F(x)$ **primitiva** di $f(x)$.
+
+Se $f(x)$ è continua, allora ammette una primitiva.
+
+Se $F(x)$ è primitiva di $f(x)$, allora qualsiasi funzione $G(x)=F(x)+C$ è primitiva di $f(x)$.
+
+L'**integrale indefinito** di $f$ è l'insieme di tutte le primitive di $f$ ed è indicato con $\int f(x) \,dx$.
+- $\int(f(x)+g(x))  \, dx=\int f(x) \, dx+\int g(x) \, dx$
+- $\int kf(x) \, dx=k\int f(x) \, dx$
+
+Date $F, f: \mathbb R \to \mathbb R\, |\, F'(x)=f(x)$ e $g$ derivabile, vale:
+$$
+\int f(g(x)) \cdot g'(x) \, dx =F(g(x))+C
+$$
+
+Date $f$ e $g$ derivabili, vale:
+$$
+\int f'(x)\cdot g(x) \, dx = f(x) \cdot g(x) - \int f(x) \cdot g'(x) \, dx  
+$$
+
+
 
 # Equazioni differenziali
