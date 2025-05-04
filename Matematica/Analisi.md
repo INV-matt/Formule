@@ -235,9 +235,11 @@ L'**integrale indefinito** di $f$ Ã¨ l'insieme di tutte le primitive di $f$ ed Ã
 - $\int kf(x) \, dx=k\int f(x) \, dx$
 
 Date $F, f: \mathbb R \to \mathbb R\, |\, F'(x)=f(x)$ e $g$ derivabile, vale:
+
 $$\int f(g(x)) \cdot g'(x) \, dx =F(g(x))+C$$
 
 Date $f$ e $g$ derivabili, vale:
+
 $$\int f'(x)\cdot g(x) \, dx = f(x) \cdot g(x) - \int f(x) \cdot g'(x) \, dx  $$
 
 
