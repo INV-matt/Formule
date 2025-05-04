@@ -297,4 +297,7 @@ $$\begin{align}
 
 # Onde Elettromagnetiche
 Le oscillazioni dei campi elettrici e magnetici si propagano nello spazio sotto forma di onda elettromagnetica. 
-Questa si propaga nel vuoto con una velocità $v=\frac{1}{\sqrt{ \varepsilon_{0}\mu_{0} }}=c$ e nei materiali con velocità $v_{r}=\frac{c}{\sqrt{\varepsilon_{r}\mu _{r}}}$
+Questa si propaga nel vuoto con una velocità 
+$v=\frac{1}{\sqrt{ \varepsilon_{0}\mu_{0} }}=c$
+e nei materiali con velocità 
+$v_{r}=\frac{c}{\sqrt{\varepsilon_{r}\mu _{r}}}$
