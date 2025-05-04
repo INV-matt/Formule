@@ -46,7 +46,7 @@ Se esiste il limite, allora esistono il limite destro e sinistro e sono uguali a
 Se esistono il limite da destra e da sinistra e sono uguali, allora esiste il limite stesso.
 
 ### Teorema della permanenza del segno
-$$\lim_{ x \to a }f(x) \neq 0 \implies \exists I(a)\ |\ sgn(f(x)) = sgn(l)\ \forall x \in I(a)$$
+$$\lim_{ x \to a }f(x) \neq 0 \implies \exists I(a)\ |\ \text{sgn}(f(x)) = \text{sgn}(l)\ \forall x \in I(a)$$
 
 
 $$f(x) > 0\ \forall x \in I(a)\ \land \lim_{ x \to a }f(x) = l \implies l \ge 0 $$
@@ -75,7 +75,7 @@ Siano $L_{+}=\lim_{ x \to a^+ }f(x)$ e $L_{-}=\lim_{ x \to a^- }f(x)$.
 
 ### Teorema della permanenza del segno
 Sia $f: D\to \mathbb R$. Se $f$ è continua in $a \in D$, allora 
-$\exists I(a)\ |\ sgn(f(x))=sgn(f(a))\ \forall x \in I(a)$ se $f(a)\neq 0$
+$\exists I(a)\ |\ \text{sgn}(f(x))=\text{sgn}(f(a))\ \forall x \in I(a)$ se $f(a)\neq 0$
 
 ### Teorema di Weierstrass
 Se $f: [a,b] \to \mathbb R$ è continua, allora ha massimo e minimo assoluti su $[a, b]$
