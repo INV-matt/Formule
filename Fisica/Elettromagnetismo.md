@@ -159,7 +159,6 @@ Prima legge: In un nodo, la somma delle correnti entranti è uguale alla somma d
 Seconda legge: In una maglia, la somma delle differenze di potenziale è 0
 
 
-
 # Campo Magnetico
 ## Forza di Lorentz Danetz
 
@@ -270,3 +269,32 @@ $$i(t)=\frac{V}{R} e^{-t/\tau}$$
 Corrente di scarica:
 
 $$i(t)=-\frac{V}{R}e^{-t/\tau}$$
+
+## Circuiti AC
+Un alternatore genera un'energia elettrica che varia nel tempo trasformando energia meccanica.
+
+$$\begin{align}
+\mathcal E(t)&=\omega AB \sin(\omega t)=\mathcal E_{0}\sin(\omega t) \\
+i(t)&=\frac{\omega AB}{R}\sin(\omega t)=i_{0}\sin(\omega t) \\
+P(t)&=i_{0}\mathcal E_{0}\sin^2(\omega t) \\
+\bar{P}&=\frac{1}{2}i_{0}\mathcal E_{0}
+\end{align}$$
+
+## Trasformatore
+$$\frac{\mathcal E_s}{\mathcal E_p}=\frac{N_{s}}{N_{p}}=\frac{I_{p}}{I_{s}}$$
+
+
+
+# Leggi di Maxwell
+I campi elettrici e magnetici sono regolati da quattro equazioni fondamentali:
+
+$$\begin{align}
+\Phi_{S}(\vec{E})&=\frac{Q}{\varepsilon_{0}} \\
+\Phi_{S}(\vec{B})&=0 \\
+\Gamma_{\gamma}(\vec{E})&=-\frac{d\Phi_{S}(\vec{B})}{dt} \\
+\Gamma_{\gamma}(\vec{B})&=\mu_{0}\sum i_{k}+\varepsilon_{0}\mu_{0}\frac{d\Phi_{S}(\vec{E})}{dt} 
+\end{align}$$
+
+# Onde Elettromagnetiche
+Le oscillazioni dei campi elettrici e magnetici si propagano nello spazio sotto forma di onda elettromagnetica. 
+Questa si propaga nel vuoto con una velocità $v=\frac{1}{\sqrt{ \varepsilon_{0}\mu_{0} }}=c$ e nei materiali con velocità $v_{r}=\frac{c}{\sqrt{\varepsilon_{r}\mu _{r}}}$
