@@ -28,7 +28,7 @@ dove $P(B|A$) è la probabilità che accada B dato A.
 
 # Combinatoria
 ## Disposizioni
-Disposizioni di $n$ elementi in gruppi ordinati di $k$ elementi senza elementi
+Disposizioni di $n$ elementi in gruppi ordinati di $k$ elementi senza ripetizioni
 
 $$D_{n,k} = \frac{n!}{(n-k)!}$$
 
@@ -51,4 +51,4 @@ Combinazioni senza ripetizioni:
 $$C_{n,k}=\frac{D_{n,k}}{P_{k}}=\frac{n!}{(n-k)!k!}={n \choose k}$$
 
 Combinazioni con ripetizioni:
-$$C'=\frac{(n+k-1)!}{k!(n-1)!}$$
+$$C_{n,k}'=\frac{(n+k-1)!}{k!(n-1)!}$$
