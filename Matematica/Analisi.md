@@ -244,11 +244,13 @@ $$\int f'(x)\cdot g(x) \  dx = f(x) \cdot g(x) - \int f(x) \cdot g'(x) \  dx  $$
 
 ## Integrale definito
 Si definiscono rispettivamente **somma integrale superiore** e **somma integrale inferiore**:
+
 $$\begin{align}
 S_{n}&=\sum_{i=1}^nmax_{i}f(x)\Delta x \\
 s_{n}&=\sum_{i=1}^nmin_{i}f(x)\Delta x  \\
 &\text{con} \ \  \Delta x=\frac{b-a}{n}
 \end{align}$$
+
 
 Se $f$ è continua, allora 
 $$\lim_{ n \to +\infty }S_{n}=\lim_{ n \to +\infty }s_{n}=A$$
@@ -275,13 +277,16 @@ $f(c)$ prende nome di valore medio integrale.
 
 ### Funzione integrale
 Data $f:[a,b] \to \mathbb{R}$ continua, si definisce **funzione integrale** di $f$ su $[a, b]$
+
 $$F(x)=\int _{a}^x f(t)\ dt $$
 
 ### Teorema fondamentale del calcolo integrale (Torricelli-Barrow)
 Se $f$ è continua, allora $F$ è derivabile e vale:
+
 $$F'(x)=f(x)$$
 
 ### Formula di Leibniz-Newtonnnnnn
+
 $$\int _{a}^b f(x)\ dx=F(b)-F(a)=\Big[F(x)\Big]_{a}^b $$
 
 
