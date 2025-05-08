@@ -288,8 +288,8 @@ $$F'(x)=f(x)$$
 
 ### Formula di Leibniz-Newtonnnnnn
 Vale:
-
-$$\int _{a}^b f(x)\ dx=F(b)-F(a)=\Big[F(x)\Big]_{a}^b$$
+$$ciao$$
+$$\int_{a}^b f(x)\ dx=F(b)-F(a)=\Big[F(x)\Big]_{a}^b$$
 
 
 # Equazioni differenziali
