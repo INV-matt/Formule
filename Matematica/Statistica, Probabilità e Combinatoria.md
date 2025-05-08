@@ -26,6 +26,11 @@ $$P(A|B)=\frac{P(B|A)P(B)}{P(A)}$$
 dove $P(B|A$) è la probabilità che accada B dato A.
 
 
+## Distribuzione binomiale
+Qual è la probabilità che su $N$ tentativi un evento con probabilità di accadere $p$ accada $K$ volte?
+$$P(N, K)=\binom N Kp^K(1-p)^{N-K}$$
+
+
 # Combinatoria
 ## Disposizioni
 Disposizioni di $n$ elementi in gruppi ordinati di $k$ elementi senza ripetizioni
