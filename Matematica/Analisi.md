@@ -230,46 +230,46 @@ Se $f(x)$ è continua, allora ammette una primitiva.
 
 Se $F(x)$ è primitiva di $f(x)$, allora qualsiasi funzione $G(x)=F(x)+C$ è primitiva di $f(x)$.
 
-L'**integrale indefinito** di $f$ è l'insieme di tutte le primitive di $f$ ed è indicato con $\int f(x) \,dx$.
-- $\int(f(x)+g(x))  \, dx=\int f(x) \, dx+\int g(x) \, dx$
-- $\int kf(x) \, dx=k\int f(x) \, dx$
+L'**integrale indefinito** di $f$ è l'insieme di tutte le primitive di $f$ ed è indicato con $\int f(x) \ dx$.
+- $\int(f(x)+g(x))  \  dx=\int f(x) \  dx+\int g(x) \  dx$
+- $\int kf(x) \  dx=k\int f(x) \  dx$
 
-Date $F, f: \mathbb R \to \mathbb R\, |\, F'(x)=f(x)$ e $g$ derivabile, vale:
+Date $F, f: \mathbb R \to \mathbb R\  |\  F'(x)=f(x)$ e $g$ derivabile, vale:
 
-$$\int f(g(x)) \cdot g'(x) \, dx =F(g(x))+C$$
+$$\int f(g(x)) \cdot g'(x) \  dx =F(g(x))+C$$
 
 Date $f$ e $g$ derivabili, vale:
 
-$$\int f'(x)\cdot g(x) \, dx = f(x) \cdot g(x) - \int f(x) \cdot g'(x) \, dx  $$
+$$\int f'(x)\cdot g(x) \  dx = f(x) \cdot g(x) - \int f(x) \cdot g'(x) \  dx  $$
 
 ## Integrale definito
 Si definiscono rispettivamente **somma integrale superiore** e **somma integrale inferiore**:
 $$\begin{align}
 S_{n}&=\sum_{i=1}^nmax_{i}f(x)\Delta x \\
 s_{n}&=\sum_{i=1}^nmin_{i}f(x)\Delta x  \\
-&\text{con} \,\, \Delta x=\frac{b-a}{n}
+&\text{con} \ \  \Delta x=\frac{b-a}{n}
 \end{align}$$
 
 Se $f$ è continua, allora 
 $$\lim_{ n \to +\infty }S_{n}=\lim_{ n \to +\infty }s_{n}=A$$
 dove $A$ è l'area del trapezoide.
-Se $f:[a,b]\to \mathbb R$, $f$ è integrabile in senso definito secondo Riemann e  $\lim_{ n \to +\infty }S_{n}=\lim_{ n \to +\infty }s_{n}=\int_{a}^b f(x)\, dx$
+Se $f:[a,b]\to \mathbb R$, $f$ è integrabile in senso definito secondo Riemann e  $\lim_{ n \to +\infty }S_{n}=\lim_{ n \to +\infty }s_{n}=\int_{a}^b f(x)\  dx$
 
 Se $f$ è continua, allora è integrabile in senso definito.
 
-- $\int _{b}^a f(x)\, dx=-\int _{a}^b f(x)\, dx$
-- $\int _{a}^af(x) \, dx=0$
+- $\int _{b}^a f(x)\  dx=-\int _{a}^b f(x)\  dx$
+- $\int _{a}^af(x) \  dx=0$
 
 ### Proprietà
-- $\int _{a}^b f(x)\, dx=\int _{a}^c f(x)\, dx + \int _{c}^b f(x)\, dx$
-- $\int _{a}^b (f(x)+g(x))\, dx=\int _{a}^b f(x)\, dx+\int _{a}^b g(x)\, dx$
-- $\int _{a}^b kf(x)\, dx=k\int _{a}^b f(x)\, dx$
-- $f(x)\leq g(x) \implies\int _{a}^b f(x)\, dx \leq \int _{a}^b g(x)\, dx$
-- $\left|\int _{a}^b f(x)\, dx\right|\leq\int _{a}^b \left|f(x)\right|\, dx$
-- $\int _{a}^b k\, dx=k(b-a)$
+- $\int _{a}^b f(x)\  dx=\int _{a}^c f(x)\  dx + \int _{c}^b f(x)\  dx$
+- $\int _{a}^b (f(x)+g(x))\  dx=\int _{a}^b f(x)\  dx+\int _{a}^b g(x)\  dx$
+- $\int _{a}^b kf(x)\  dx=k\int _{a}^b f(x)\  dx$
+- $f(x)\leq g(x) \implies\int _{a}^b f(x)\  dx \leq \int _{a}^b g(x)\  dx$
+- $\left|\int _{a}^b f(x)\  dx\right|\leq\int _{a}^b \left|f(x)\right|\  dx$
+- $\int _{a}^b k\  dx=k(b-a)$
 
 ### Teorema del valore medio integrale
-Sia $f:[a,b]\to \mathbb{R}$ continua. Allora $\exists c \in [a, b] | f(c)(b-a)=\int _{a}^bf(x) \, dx$. 
+Sia $f:[a,b]\to \mathbb{R}$ continua. Allora $\exists c \in [a, b] | f(c)(b-a)=\int _{a}^bf(x) \  dx$. 
 
 $f(c)$ prende nome di valore medio integrale.
 
