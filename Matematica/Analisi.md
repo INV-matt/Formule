@@ -273,6 +273,16 @@ Sia $f:[a,b]\to \mathbb{R}$ continua. Allora $\exists c \in [a, b] | f(c)(b-a)=\
 
 $f(c)$ prende nome di valore medio integrale.
 
+### Funzione integrale
+Data $f:[a,b] \to \mathbb{R}$ continua, si definisce **funzione integrale** di $f$ su $[a, b]$
+$$F(x)=\int _{a}^x f(t)\ dt $$
+
+### Teorema fondamentale del calcolo integrale (Torricelli-Barrow)
+Se $f$ è continua, allora $F$ è derivabile e vale:
+$$F'(x)=f(x)$$
+
+### Formula di Leibniz-Newtonnnnnn
+$$\int _{a}^b f(x)\ dx=F(b)-F(a)=\bigg[F(x)\bigg]_{a}^b $$
 
 
 # Equazioni differenziali
