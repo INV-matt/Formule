@@ -255,6 +255,7 @@ s_{n}&=\sum_{i=1}^nmin_{i}f(x)\Delta x  \\
 Se $f$ è continua, allora 
 $$\lim_{ n \to +\infty }S_{n}=\lim_{ n \to +\infty }s_{n}=A$$
 dove $A$ è l'area del trapezoide.
+
 Se $f:[a,b]\to \mathbb R$, $f$ è integrabile in senso definito secondo Riemann e  $\lim_{ n \to +\infty }S_{n}=\lim_{ n \to +\infty }s_{n}=\int_{a}^b f(x)\  dx$
 
 Se $f$ è continua, allora è integrabile in senso definito.
