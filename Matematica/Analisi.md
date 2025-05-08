@@ -269,7 +269,9 @@ Se $f$ è continua, allora è integrabile in senso definito.
 - $\int _{a}^b k\, dx=k(b-a)$
 
 ### Teorema del valore medio integrale
-Sia $f:[a,b]\to \mathbb{R}$ continua. Allora $\exists c \in [a, b] | f(c)(b-a)=\int _{a}^bf(x) \, dx$. $f(c)$ prende nome di valore medio integrale.
+Sia $f:[a,b]\to \mathbb{R}$ continua. Allora $\exists c \in [a, b] | f(c)(b-a)=\int _{a}^bf(x) \, dx$. 
+
+$f(c)$ prende nome di valore medio integrale.
 
 
 
