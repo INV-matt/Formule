@@ -304,3 +304,77 @@ $$v=\frac{1}{\sqrt{ \varepsilon_{0}\mu_{0} }}=c$$
 e nei materiali con velocità 
 
 $$v_{r}=\frac{c}{\sqrt{\varepsilon_{r}\mu _{r}}}$$
+
+Inoltre vale:
+
+$$E=vB$$
+dove $v$ è la velocità di propagazione dell'onda. In particolare, nel vuoto questo rapporto diventa:
+
+$$\begin{align}
+E=&cB \\
+B^2=&\mu_{0}\varepsilon_{0}E^2
+\end{align}$$
+
+Inoltre:
+
+$$v=\frac{\lambda}{T}=\lambda f$$
+
+Nel passaggio da un materiale all'altro, $f$ rimane invariata, dunque $v/\lambda$ rimane invariato. Se un'onda rallenta quando entra in un materiale, la sua lunghezza d'onda diminuisce.
+
+## Densità di energia trasportata dalle onde EM
+In generale:
+
+$$\begin{align}
+\delta _{E}&=\frac{1}{2}\varepsilon_{0}E^2 \\
+\delta _{B}&=\frac{1}{2\mu_{0}}B^2 \\
+\end{align}$$
+
+Poiché $\varepsilon_{0}E^2=B^2/\mu_{0}$
+
+$$\delta(t)=\frac{1}{2}\varepsilon_{0}E(t)^2+\frac{1}{2\mu_{0}}B(t)^2=\varepsilon_{0}E(t)^2=\frac{1}{\mu_{0}}B(t)^2$$
+
+Se l'onda è armonica:
+
+$$\begin{align}
+\delta(t)&=\varepsilon_{0}E_{0}^2\sin^2(\omega t)=\frac{1}{\mu_{0}}B_{0}^2\sin^2(\omega t) \\
+\bar{\delta}&=\frac{1}{2}\varepsilon_{0}E_{0}^2=\frac{1}{2\mu_{0}}B_{0}^2 \\
+\bar{\delta}&=\varepsilon_{0}E_{EF}^2=\frac{1}{\mu_{0}}B_{EF}^2
+\end{align}$$
+
+
+## Intensità dell'onda EM
+$$I=\frac{W}{A\Delta t}$$
+dove $W$ è l'energia che arriva in un tempo $\Delta t$ su una superficie $A$ posta perpendicolarmente ai raggi.
+
+$$W=Ac\Delta t \bar{\delta}$$
+
+Da cui
+
+$$\bar{I}=c\bar{\delta}$$
+
+Se la sorgente è una sorgente puntiforme isotropa:
+
+$$I=\frac{P_{tot}}{4\pi r^2}$$
+
+Da cui:
+
+$$\begin{align}
+\frac{\bar{P}}{4\pi r^2}&=\frac{1}{2}c \varepsilon_{0}E_{0}^2 \\
+E_{0}&=\sqrt{ \frac{\bar{P}}{2\pi\varepsilon_{0} c} }\cdot \frac{1}{r} \\
+B_{0}&=\sqrt{ \frac{\mu_{0}\bar{P}}{2\pi c} }\cdot \frac{1}{r}
+\end{align}$$
+
+## Quantità di moto e pressione dell'onda EM
+
+$$\begin{align}
+\Delta q&=\frac{\Delta W}{c} \text{ se l'onda è totalmente assorbita}\\
+\Delta q&=2 \frac{\Delta W}{c} \text{ se l'onda è totalmente riflessa}
+\end{align}$$
+
+Dove $\Delta W$ è la quantità di energia assorbita.
+
+Per il teorema dell'impulso:
+
+$$p=\frac{F}{A}=\frac{\Delta q}{A\Delta t}=k\frac{\Delta W}{cA\Delta t}=k\bar{\delta},\ 1\leq k\leq 2$$
+
+In particolare, la pressione di un'onda totalmente assorbita è $p=\bar{\delta}$ e di una totalmente riflessa $p=2\bar{\delta}$
